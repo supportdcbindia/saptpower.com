@@ -1,0 +1,17 @@
+Time : 20:13:06
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'message' at row 1
+Raw SQL : insert into quote_requests set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-08-29 20:13:06', `updated_at` = NULL, `name` = 'Orlando Pedro Irigoyen', `email` = 'opirigoyen@fibertel.com.ar', `phone` = '+54 9 351 4793183/4781407', `message` = 'Estimados Sres, somos fabricantes de envases de papel desde 2001 a la fecha,  CARBON-HARINA-YERBA MATE Etc, estamos interesados en conocer los modelos de maquinas, tales como CROW RB-200 o similar SIN MANIJA, nada mas que el LARGO CORTE TUBOS de este modelo nos queda corto (530 mm), preguntamos tienen otro modelo cuyo alcense  LARGO de CORTE TUBO pueda hacerlo hasta 660 mm ?
+Quedamos a la espera de vuestra repuesta
+Atte. Orlando Irigoyen - Titular
+www:Multipacksrl.com.ar
+opirigoyen.opi@gmail.com
+'
+
+Time : 20:11:22
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'message' at row 1
+Raw SQL : insert into quote_requests set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-08-29 20:11:22', `updated_at` = NULL, `name` = 'Orlando Pedro Irigoyen', `email` = 'opirigoyen@fibertel.com.ar', `phone` = '+54 9 351 4793183/4781407', `message` = 'Estimados Sres, somos fabricantes de envases de papel desde 2001 a la fecha,  CARBON-HARINA-YERBA MATE Etc, estamos interesados en conocer los modelos de maquinas, tales como CROW RB-200 o similar SIN MANIJA, nada mas que el LARGO CORTE TUBOS de este modelo nos queda corto (530 mm), preguntamos tienen otro modelo cuyo alcense  LARGO de CORTE TUBO pueda hacerlo hasta 660 mm ?
+Quedamos a la espera de vuestra repuesta
+Atte. Orlando Irigoyen - Titular
+www:Multipacksrl.com.ar
+opirigoyen.opi@gmail.com
+'

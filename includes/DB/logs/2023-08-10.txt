@@ -1,0 +1,7 @@
+Time : 15:35:04
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'role' at row 1
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Nimit', `lastName` = 'D', `email` = 'nimitdudani@gmail.com', `phone` = '', `password` = 'd61ee1694cdbced91003855273e33f41', `status` = '1', `role` = ''
+
+Time : 15:33:50
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'role' at row 1
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Nimit', `lastName` = 'D', `email` = 'nimitdudani@gmail.com', `phone` = '', `password` = 'd61ee1694cdbced91003855273e33f41', `status` = '1', `role` = ''

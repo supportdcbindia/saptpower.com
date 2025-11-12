@@ -1,0 +1,155 @@
+Time : 18:19:19
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '1', `name` = 'swati', `url` = 'bvsddsfhlfbnlgh/v', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:18:50
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '2', `name` = 'Janavi Ladani', `url` = 'bvsddsfhlfbnlgh/v', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:17:29
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '1', `name` = 'swati', `url` = 'bvsddsfhlfbnlgh/v', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:11:45
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '1', `name` = 'swati', `url` = 'bvsddsfhlfbnlgh/v', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:11:44
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '1', `name` = 'swati', `url` = 'bvsddsfhlfbnlgh/v', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:11:17
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '2', `name` = 'jxvbhgjgmbfbn', `url` = 'http/bvsukrrhylfgsgm,', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:11:10
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '2', `name` = 'jxvbhgjgmbfbn', `url` = 'http/bvsukrrhylfgsgm,', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:11:07
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '2', `name` = 'jxvbhgjgmbfbn', `url` = 'http/bvsukrrhylfgsgm,', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:11:06
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '2', `name` = 'jxvbhgjgmbfbn', `url` = 'http/bvsukrrhylfgsgm,', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:11:05
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '2', `name` = 'jxvbhgjgmbfbn', `url` = 'http/bvsukrrhylfgsgm,', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:11:04
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '2', `name` = 'jxvbhgjgmbfbn', `url` = 'http/bvsukrrhylfgsgm,', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:10:26
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '1', `name` = 'vbsdfhvlnbljbhjs', `url` = 'bvsddsfhlfbnlgh/v', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:10:23
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_proddb`.`la_front_menus`.`hierarchy` at row 1
+Raw SQL : insert into la_front_menus set `id` = 0, `menu_type_id` = '1', `name` = 'vbsdfhvlnbljbhjs', `url` = 'bvsddsfhlfbnlgh/v', `icon` = '', `type` = '', `parent` = '0', `hierarchy` = '', `created_at` = '', `updated_at` = ''
+
+Time : 18:06:36
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'sub_title' at row 1
+Raw SQL : insert into pages set `id` = 0, `image_1` = '56232_258697304_486397116561578_2227478291155932572_n.jpg', `title` = 'cfhxdgtsresyryhdxg.', `sub_title` = 'packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).', `desc_1` = 'packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).', `deleted_at` = NULL, `created_at` = '2023-06-16 18:06:36', `updated_at` = NULL, `slug` = 'rerer', `seo_title` = 'bjgyufyuhblbl/', `seo_keyword` = 'packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).', `banner_video_url` = 'kjhvsigho;djhd;hkdxh;d', `banner_html` = 'sfdrhytjxdvfzfAZDF', `page_class` = 'bfgfjftgxdhdjyikjtfjhdh'
+
+Time : 18:06:05
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'title' at row 1
+Raw SQL : insert into pages set `id` = 0, `image_1` = 'd8c36_258697304_486397116561578_2227478291155932572_n.jpg', `title` = 'cpackages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).', `sub_title` = 'packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).', `desc_1` = 'packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).', `deleted_at` = NULL, `created_at` = '2023-06-16 18:06:05', `updated_at` = NULL, `slug` = 'rerer', `seo_title` = 'bjgyufyuhblbl/', `seo_keyword` = 'packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).', `banner_video_url` = 'kjhvsigho;djhd;hkdxh;d', `banner_html` = 'sfdrhytjxdvfzfAZDF', `page_class` = 'bfgfjftgxdhdjyikjtfjhdh'
+
+Time : 15:27:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from latest_news where `deleted_at` IS NULL and ( html LIKE '%closeup%'  OR order_no LIKE '%closeup%'  order by id desc
+
+Time : 15:27:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from latest_news where `deleted_at` IS NULL and ( html LIKE '%closeu%'  OR order_no LIKE '%closeu%'  order by id desc
+
+Time : 15:27:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from latest_news where `deleted_at` IS NULL and ( html LIKE '%close%'  OR order_no LIKE '%close%'  order by id desc
+
+Time : 15:27:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from latest_news where `deleted_at` IS NULL and ( html LIKE '%clo%'  OR order_no LIKE '%clo%'  order by id desc
+
+Time : 15:27:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from latest_news where `deleted_at` IS NULL and ( html LIKE '%c%'  OR order_no LIKE '%c%'  order by id desc
+
+Time : 15:11:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%loreal%'  OR order_no LIKE '%loreal%'  order by id desc
+
+Time : 15:11:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%lorea%'  OR order_no LIKE '%lorea%'  order by id desc
+
+Time : 15:11:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%lore%'  OR order_no LIKE '%lore%'  order by id desc
+
+Time : 15:11:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%lor%'  OR order_no LIKE '%lor%'  order by id desc
+
+Time : 15:11:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%l%'  OR order_no LIKE '%l%'  order by id desc
+
+Time : 12:11:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'Ladani', `email` = 'janavi.vachhani@gmail.com', `phone` = '', `password` = '760d038cb6fa829f4a3151409846c422', `status` = '1'
+
+Time : 12:09:56
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'Ladani', `email` = 'janavi.vachhani@gmail.com', `phone` = '', `password` = '760d038cb6fa829f4a3151409846c422', `status` = '1'
+
+Time : 12:08:06
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'Ladani', `email` = 'janavi.vachhani@gmail.com', `phone` = '', `password` = 'b827e81c9184dafcf0539675dc0c8a78', `status` = '1'
+
+Time : 12:06:54
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'Ladani', `email` = 'janavi.vachhani@gmail.com', `phone` = '', `password` = '760d038cb6fa829f4a3151409846c422', `status` = '1'
+
+Time : 12:05:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'jasmina', `lastName` = 'Ladani', `email` = 'test.22@gmail.com', `phone` = '', `password` = '4d888fe7271a76f63ddf5e7793449fe7', `status` = '1'
+
+Time : 12:04:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'jasmin', `lastName` = 'Ladani', `email` = 'test.22@gmail.com', `phone` = '', `password` = 'd79096188b670c2f81b7001f73801117', `status` = '1'
+
+Time : 12:02:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'jasmin', `lastName` = 'Ladani', `email` = 'test.22@gmail.com', `phone` = '', `password` = 'f32d10340e11c737db1fcc17b08cd0f1', `status` = '1'
+
+Time : 12:02:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'jasmin', `lastName` = 'Ladani', `email` = 'test.22@gmail.com', `phone` = '', `password` = 'd41d8cd98f00b204e9800998ecf8427e', `status` = '1'
+
+Time : 12:01:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'Ladani', `email` = 'test.22@gmail.com', `phone` = '', `password` = 'ceb6c970658f31504a901b89dcd3e461', `status` = '1'
+
+Time : 12:01:06
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'Ladani', `email` = 'test.22@gmail.com', `phone` = '', `password` = 'd41d8cd98f00b204e9800998ecf8427e', `status` = '1'
+
+Time : 11:59:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'Ladani', `email` = 'test@gmail.com', `phone` = '', `password` = 'd41d8cd98f00b204e9800998ecf8427e', `status` = '1'
+
+Time : 11:46:18
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'patel', `email` = 'janavi.patel@gmail.com', `phone` = '', `password` = '760d038cb6fa829f4a3151409846c422', `status` = '1'
+
+Time : 11:42:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'Ladani', `email` = 'janavi.vachhani@gmail.com', `phone` = '', `password` = 'd2fdfbc7faa5a837e648163632464d64', `status` = '1'
+
+Time : 11:39:55
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Raw SQL : insert into admin_users set `id` = 0, `firstName` = 'Janavi', `lastName` = 'Ladani', `email` = 'janavi.vachhani@gmail.com', `phone` = '', `password` = 'd41d8cd98f00b204e9800998ecf8427e', `status` = '1'

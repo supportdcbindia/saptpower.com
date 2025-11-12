@@ -1,0 +1,71 @@
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc
+
+Time : 15:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'assets' order by id desc' at line 1
+Raw SQL : select * from pages where `slug`='%7B%7Burl('assets' order by id desc

@@ -1,0 +1,63 @@
+Time : 19:21:21
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'df3b2_476a09a1e33fbcc9ed1582b3a85f48ee-removebg-preview_(1).png' for column 'image' at row 1
+Raw SQL : insert into machines set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 19:21:21', `updated_at` = NULL, `title` = 'test', `small_description` = 'hi', `description` = 'test demo', `image` = 'df3b2_476a09a1e33fbcc9ed1582b3a85f48ee-removebg-preview_(1).png', `url` = 'hhh'
+
+Time : 18:48:00
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'image' at row 1
+Raw SQL : insert into latest_news set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 18:48:00', `updated_at` = NULL, `title` = 'test', `description` = 'demo', `image` = ''
+
+Time : 11:42:19
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:42:19', `updated_at` = NULL, `image` = NULL, `html` = 'jklnjk', `status` = '1', `order_no` = '123'
+
+Time : 11:42:15
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:42:15', `updated_at` = NULL, `image` = NULL, `html` = 'jklnjk', `status` = '1', `order_no` = '123'
+
+Time : 11:42:13
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:42:13', `updated_at` = NULL, `image` = NULL, `html` = 'jklnjk', `status` = '1', `order_no` = '123'
+
+Time : 11:42:09
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:42:09', `updated_at` = NULL, `image` = NULL, `html` = 'jklnjk', `status` = '1', `order_no` = '123'
+
+Time : 11:39:06
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:39:06', `updated_at` = NULL, `image` = NULL, `html` = 'jklnjk', `status` = '1', `order_no` = '123'
+
+Time : 11:34:10
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:34:09', `updated_at` = NULL, `image` = NULL, `html` = 'u7i8yhui', `status` = '1', `order_no` = '123'
+
+Time : 11:33:39
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:33:39', `updated_at` = NULL, `image` = NULL, `html` = 'u7i8yhui', `status` = '1', `order_no` = '123'
+
+Time : 11:23:16
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:23:16', `updated_at` = NULL, `image` = NULL, `html` = 'jkgh', `status` = '1', `order_no` = '135'
+
+Time : 11:23:03
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:23:03', `updated_at` = NULL, `image` = NULL, `html` = 'jkgh', `status` = '1', `order_no` = '135'
+
+Time : 11:22:15
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:22:15', `updated_at` = NULL, `image` = NULL, `html` = 'jhkgui', `status` = '1', `order_no` = '13'
+
+Time : 11:21:34
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:21:33', `updated_at` = NULL, `image` = NULL, `html` = 'uyfguy', `status` = '1', `order_no` = '123'
+
+Time : 11:21:20
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:21:20', `updated_at` = NULL, `image` = NULL, `html` = 'uyfguy', `status` = '1', `order_no` = '123'
+
+Time : 11:05:26
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:05:26', `updated_at` = NULL, `image` = NULL, `html` = 'uyfguy', `status` = '1', `order_no` = '123'
+
+Time : 11:01:57
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null
+Raw SQL : insert into home_sliders set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-12 11:01:57', `updated_at` = NULL, `image` = NULL, `html` = 'demo', `status` = '1', `order_no` = '123'

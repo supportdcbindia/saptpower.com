@@ -1,0 +1,10 @@
+Time : 19:41:08
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'message' at row 1
+Raw SQL : insert into quote_requests set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-08-25 19:41:08', `updated_at` = NULL, `name` = 'Jerry Owusu', `email` = 'jerrymireku7@gmail.com', `phone` = '+233592500203', `message` = 'Hello Sir,
+My name is Jerry Mireku. I work with The Assemblies of God Literature Center Ltd, Accra Ghana. A printing and publishing firm in operation over 50 years. 
+As part of our plan to extend our production lines in the printing industry, we wish to enter into a full time production of Exercise book and Note books. 
+I will love that you give us a quotation on your Exercise Book and Note Book Ruling and making machine which will best make us competitive in the market . 
+Kindly send us the machine prices and its features to enable us to make an informed decision to purchase your best machines. 
+
+i Look forward to hearing from you soon. 
+Thank you.'

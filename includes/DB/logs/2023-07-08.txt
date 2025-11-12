@@ -1,0 +1,19 @@
+Time : 15:50:05
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '19999-02-10' for column `lomv2_prodv2`.`careers`.`dob` at row 1
+Raw SQL : insert into careers set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-07-08 15:50:05', `updated_at` = NULL, `fname` = 'Test', `lname` = 'dev', `address` = 'demo', `city` = 'ahemdabad', `state` = 'Gujarat', `zip` = '384045', `country` = 'India', `phone` = '1234567891', `p_code` = '91', `mobile` = '1234567890', `email` = 'test@gmail.com', `dob` = '19999-02-10', `present_company` = 'test', `present_designation` = 'test', `qualification` = 'demo', `t_exp` = '2', `p_ctc` = '25000', `post_apply` = 'test', `e_ctc` = '50000', `image` = '23b63_download__1_-removebg-preview.png', `resume` = '5a125_download__1_-removebg-preview.png', `message` = 'demo'
+
+Time : 10:41:21
+SQLSTATE[01000]: Warning: 1265 Data truncated for column 'image' at row 1
+Raw SQL : insert into careers set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-07-08 10:41:21', `updated_at` = NULL, `fname` = 'Test', `lname` = 'dev', `address` = 'demo', `city` = 'ahemdabad', `state` = 'Gujarat', `zip` = '384045', `country` = 'India', `phone` = '1234567891', `p_code` = '91', `mobile` = '1234567890', `email` = 'test@gmail.com', `dob` = '1999-02-10', `present_company` = 'test', `present_designation` = 'test', `qualification` = 'demo', `t_exp` = '2', `p_ctc` = '25000', `post_apply` = 'test', `e_ctc` = '50000', `image` = '6a49e_download__1_-removebg-preview.png', `resume` = '3a692_download__1_-removebg-preview.png', `message` = 'demo'
+
+Time : 10:40:35
+SQLSTATE[01000]: Warning: 1265 Data truncated for column 'image' at row 1
+Raw SQL : insert into careers set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-07-08 10:40:35', `updated_at` = NULL, `fname` = 'Test', `lname` = 'dev', `address` = 'demo', `city` = 'ahemdabad', `state` = 'Gujarat', `zip` = '384045', `country` = 'India', `phone` = '1234567891', `p_code` = '91', `mobile` = '1234567890', `email` = 'test@gmail.com', `dob` = '1999-02-10', `present_company` = 'test', `present_designation` = 'test', `qualification` = 'demo', `t_exp` = '2', `p_ctc` = '25000', `post_apply` = 'test', `e_ctc` = '50000', `image` = '7346c_download__1_-removebg-preview.png', `resume` = '4d929_download__1_-removebg-preview.png', `message` = 'demo'
+
+Time : 10:40:16
+SQLSTATE[01000]: Warning: 1265 Data truncated for column 'image' at row 1
+Raw SQL : insert into careers set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-07-08 10:40:16', `updated_at` = NULL, `fname` = 'Test', `lname` = 'dev', `address` = 'demo', `city` = 'ahemdabad', `state` = 'Gujarat', `zip` = '384045', `country` = 'India', `phone` = '1234567891', `p_code` = '91', `mobile` = '1234567890', `email` = 'test@gmail.com', `dob` = '1999-02-10', `present_company` = 'test', `present_designation` = 'test', `qualification` = 'demo', `t_exp` = '2', `p_ctc` = '25000', `post_apply` = 'test', `e_ctc` = '50000', `image` = '4acf7_download__1_-removebg-preview.png', `resume` = '96759_download__1_-removebg-preview.png', `message` = 'demo'
+
+Time : 10:38:11
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: 'b3ac4_download__1_-removebg-preview.png' for column `lomv2_prodv2`.`careers`.`image` at row 1
+Raw SQL : insert into careers set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-07-08 10:38:11', `updated_at` = NULL, `fname` = 'Test', `lname` = 'dev', `address` = 'demo', `city` = 'ahemdabad', `state` = 'Gujarat', `zip` = '384045', `country` = 'India', `phone` = '1234567891', `p_code` = '91', `mobile` = '1234567890', `email` = 'test@gmail.com', `dob` = '1999-02-10', `present_company` = 'test', `present_designation` = 'test', `qualification` = 'demo', `t_exp` = '2', `p_ctc` = '25000', `post_apply` = 'test', `e_ctc` = '50000', `image` = 'b3ac4_download__1_-removebg-preview.png', `resume` = '57fc0_download__1_-removebg-preview.png', `message` = 'demo'

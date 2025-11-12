@@ -1,0 +1,93 @@
+Time : 13:07:15
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'prod_laravel_db.la_front_menus' doesn't exist
+Raw SQL : select * from la_front_menus where menu_type_id=1 AND parent=0 order by hierarchy asc
+
+Time : 13:06:50
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:50
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:50
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:50
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:50
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:49
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:49
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:49
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:49
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:49
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:49
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:48
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:48
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:48
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:48
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:48
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:48
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:48
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:47
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:47
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:47
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:47
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:47
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:47
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:46
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:46
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:46
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:45
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:06:30
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)
+
+Time : 13:01:52
+SQLSTATE[HY000] [1045] Access denied for user 'prod_laravel_usr'@'localhost' (using password: YES)

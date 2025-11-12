@@ -1,0 +1,7 @@
+Time : 18:43:42
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `lomv2_prodv2`.`careers`.`job_post_id` at row 1
+Raw SQL : insert into careers set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-07-10 18:43:42', `updated_at` = NULL, `fname` = 'John', `lname` = 'Doe', `address` = 'test', `city` = 'ahemdabad', `state` = 'Gujarat', `zip` = '384045', `country` = 'India', `phone` = '1234567891', `p_code` = '91', `mobile` = '1324657981', `email` = 'sam@gmail.com', `dob` = '1999-12-10', `present_company` = 'test', `present_designation` = 'test', `qualification` = 'demo', `t_exp` = '2', `p_ctc` = '25000', `post_apply` = 'test', `e_ctc` = '50000', `image` = '2c72c_download__1_-removebg-preview.png', `resume` = '9960f_dummy-pdf_2.pdf', `message` = 'tft', `job_post_id` = '', `job_post_name` = 'DevOps Engineer/Senior Software Engineer'
+
+Time : 15:12:19
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lomv2_prodv2.job_posting' doesn't exist
+Raw SQL : select * from job_posting where  `deleted_at` IS NULL order by id desc

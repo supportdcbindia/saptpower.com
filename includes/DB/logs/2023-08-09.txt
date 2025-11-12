@@ -1,0 +1,351 @@
+Time : 15:32:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%test%'  OR order_no LIKE '%test%'  order by id desc
+
+Time : 15:32:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%tes%'  OR order_no LIKE '%tes%'  order by id desc
+
+Time : 15:32:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%te%'  OR order_no LIKE '%te%'  order by id desc
+
+Time : 15:32:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%t%'  OR order_no LIKE '%t%'  order by id desc
+
+Time : 15:24:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by id desc' at line 1
+Raw SQL : select * from careers where  `deleted_at` IS NULL and ( fname LIKE '%test%'  OR lname LIKE '%test%'  OR address LIKE '%test%'  OR city LIKE '%test%'  OR state LIKE '%test%'  OR zip LIKE '%test%'  OR country LIKE '%test%'  OR phone LIKE '%test%'  OR p_code LIKE '%test%'  OR mobile LIKE '%test%'  OR email LIKE '%test%'  OR dob LIKE '%test%'  OR present_company LIKE '%test%'  OR present_designation LIKE '%test%'  OR qualification LIKE '%test%' ) OR job_post_name LIKE '%test%' ) order by id desc
+
+Time : 15:24:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by id desc' at line 1
+Raw SQL : select * from careers where  `deleted_at` IS NULL and ( fname LIKE '%tes%'  OR lname LIKE '%tes%'  OR address LIKE '%tes%'  OR city LIKE '%tes%'  OR state LIKE '%tes%'  OR zip LIKE '%tes%'  OR country LIKE '%tes%'  OR phone LIKE '%tes%'  OR p_code LIKE '%tes%'  OR mobile LIKE '%tes%'  OR email LIKE '%tes%'  OR dob LIKE '%tes%'  OR present_company LIKE '%tes%'  OR present_designation LIKE '%tes%'  OR qualification LIKE '%tes%' ) OR job_post_name LIKE '%tes%' ) order by id desc
+
+Time : 15:24:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by id desc' at line 1
+Raw SQL : select * from careers where  `deleted_at` IS NULL and ( fname LIKE '%t%'  OR lname LIKE '%t%'  OR address LIKE '%t%'  OR city LIKE '%t%'  OR state LIKE '%t%'  OR zip LIKE '%t%'  OR country LIKE '%t%'  OR phone LIKE '%t%'  OR p_code LIKE '%t%'  OR mobile LIKE '%t%'  OR email LIKE '%t%'  OR dob LIKE '%t%'  OR present_company LIKE '%t%'  OR present_designation LIKE '%t%'  OR qualification LIKE '%t%' ) OR job_post_name LIKE '%t%' ) order by id desc
+
+Time : 15:24:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by id desc' at line 1
+Raw SQL : select * from careers where  `deleted_at` IS NULL and ( fname LIKE '%test%'  OR lname LIKE '%test%'  OR address LIKE '%test%'  OR city LIKE '%test%'  OR state LIKE '%test%'  OR zip LIKE '%test%'  OR country LIKE '%test%'  OR phone LIKE '%test%'  OR p_code LIKE '%test%'  OR mobile LIKE '%test%'  OR email LIKE '%test%'  OR dob LIKE '%test%'  OR present_company LIKE '%test%'  OR present_designation LIKE '%test%'  OR qualification LIKE '%test%' ) OR job_post_name LIKE '%test%' ) order by id desc
+
+Time : 15:24:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by id desc' at line 1
+Raw SQL : select * from careers where  `deleted_at` IS NULL and ( fname LIKE '%tes%'  OR lname LIKE '%tes%'  OR address LIKE '%tes%'  OR city LIKE '%tes%'  OR state LIKE '%tes%'  OR zip LIKE '%tes%'  OR country LIKE '%tes%'  OR phone LIKE '%tes%'  OR p_code LIKE '%tes%'  OR mobile LIKE '%tes%'  OR email LIKE '%tes%'  OR dob LIKE '%tes%'  OR present_company LIKE '%tes%'  OR present_designation LIKE '%tes%'  OR qualification LIKE '%tes%' ) OR job_post_name LIKE '%tes%' ) order by id desc
+
+Time : 15:24:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by id desc' at line 1
+Raw SQL : select * from careers where  `deleted_at` IS NULL and ( fname LIKE '%t%'  OR lname LIKE '%t%'  OR address LIKE '%t%'  OR city LIKE '%t%'  OR state LIKE '%t%'  OR zip LIKE '%t%'  OR country LIKE '%t%'  OR phone LIKE '%t%'  OR p_code LIKE '%t%'  OR mobile LIKE '%t%'  OR email LIKE '%t%'  OR dob LIKE '%t%'  OR present_company LIKE '%t%'  OR present_designation LIKE '%t%'  OR qualification LIKE '%t%' ) OR job_post_name LIKE '%t%' ) order by id desc
+
+Time : 15:12:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%test%'  OR order_no LIKE '%test%'  order by id desc
+
+Time : 15:12:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%tes%'  OR order_no LIKE '%tes%'  order by id desc
+
+Time : 15:11:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%t%'  OR order_no LIKE '%t%'  order by id desc
+
+Time : 15:09:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%test%'  OR order_no LIKE '%test%'  order by id desc
+
+Time : 15:09:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%t%'  OR order_no LIKE '%t%'  order by id desc
+
+Time : 15:08:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%test%'  OR order_no LIKE '%test%'  order by id desc
+
+Time : 15:08:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%tes%'  OR order_no LIKE '%tes%'  order by id desc
+
+Time : 15:08:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%t%'  OR order_no LIKE '%t%'  order by id desc
+
+Time : 15:08:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%Hap%'  OR order_no LIKE '%Hap%'  order by id desc
+
+Time : 15:08:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%Happy Wom%'  OR order_no LIKE '%Happy Wom%'  order by id desc
+
+Time : 15:08:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%Happy Wome%'  OR order_no LIKE '%Happy Wome%'  order by id desc
+
+Time : 15:08:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%Happy Women%'  OR order_no LIKE '%Happy Women%'  order by id desc
+
+Time : 15:08:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%Happy Women Day%'  OR order_no LIKE '%Happy Women Day%'  order by id desc
+
+Time : 15:08:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Day%'  OR order_no LIKE '%Happy Women' Day%'  order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%Happy Women' Day%'  OR order_no LIKE '%Happy Women' Day%'  order by id desc
+
+Time : 15:05:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Day%'  OR order_no LIKE '%Happy Women's Day%'  order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%Happy Women's Day%'  OR order_no LIKE '%Happy Women's Day%'  order by id desc
+
+Time : 15:05:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Day%'  OR order_no LIKE '%Happy Women's Day%'  order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%Happy Women's Day%'  OR order_no LIKE '%Happy Women's Day%'  order by id desc
+
+Time : 15:05:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Day%'  OR order_no LIKE '%	Happy Women's Day%'  order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%	Happy Women's Day%'  OR order_no LIKE '%	Happy Women's Day%'  order by id desc
+
+Time : 15:04:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Day%'  OR order_no LIKE '%Happy Women's Day%'  order by id desc' at line 1
+Raw SQL : select * from media where `deleted_at` IS NULL and ( html LIKE '%Happy Women's Day%'  OR order_no LIKE '%Happy Women's Day%'  order by id desc
+
+Time : 13:36:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%paper converting & packaging industry%'  OR order_no LIKE '%paper converting & packaging industry%'  order by id desc
+
+Time : 13:36:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%paper converting & packaging industry%'  OR order_no LIKE '%paper converting & packaging industry%'  order by id desc
+
+Time : 13:33:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%paper converting & packaging industry%'  OR order_no LIKE '%paper converting & packaging industry%'  order by id desc
+
+Time : 13:32:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%Welcome%'  OR order_no LIKE '%Welcome%'  order by id desc
+
+Time : 12:51:55
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'interested_products' at row 1
+Raw SQL : insert into exhibitions set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-08-09 12:51:55', `updated_at` = NULL, `exhibition` = 'Virtual.drupa', `company_name` = 'R.E. ARCHER (FARMS) ', `first_name` = 'vasu', `last_name` = 'l', `address` = 'hi', `city` = 'ahemdabad', `state` = 'Gujarat', `zip` = '384045', `country` = 'India', `code` = '91', `phone` = '9016741762', `mobile` = '9327039108', `email` = 'sam@gmail.com', `interested_products` = '[\"Fully Automatic Exercise Book machine\",\"Automatic Book Production Line for Central Sewn Books\",\"Automatic Book Binding Line for Central Sewn Books\",\"Automatic Reel to Sheet Ruling\\/Flexo Printing Machine\",\"Folio Size Sheeter\",\"Folio Size Ream Wrapping Machine\",\"Shrink Wrapping Machine\",\"Auto Splicer\"]', `message` = 'demo', `date` = '2023-08-09 12:51:55'
+
+Time : 11:55:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%Packaging Machinery%'  OR order_no LIKE '%Packaging Machinery%'  order by id desc
+
+Time : 11:54:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%Packaging%'  OR order_no LIKE '%Packaging%'  order by id desc
+
+Time : 11:54:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%ackaging%'  OR order_no LIKE '%ackaging%'  order by id desc
+
+Time : 11:54:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%packaging%'  OR order_no LIKE '%packaging%'  order by id desc
+
+Time : 11:54:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%packaging %'  OR order_no LIKE '%packaging %'  order by id desc
+
+Time : 11:54:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%packaging%'  OR order_no LIKE '%packaging%'  order by id desc
+
+Time : 11:54:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%packagin%'  OR order_no LIKE '%packagin%'  order by id desc
+
+Time : 11:54:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%packag%'  OR order_no LIKE '%packag%'  order by id desc
+
+Time : 11:54:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%packa%'  OR order_no LIKE '%packa%'  order by id desc
+
+Time : 11:54:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%pack%'  OR order_no LIKE '%pack%'  order by id desc
+
+Time : 11:54:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%pac%'  OR order_no LIKE '%pac%'  order by id desc
+
+Time : 11:54:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%pa%'  OR order_no LIKE '%pa%'  order by id desc
+
+Time : 11:54:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machines where `deleted_at` IS NULL and ( html LIKE '%p%'  OR order_no LIKE '%p%'  order by id desc
+
+Time : 11:53:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%welcome%'  OR order_no LIKE '%welcome%'  order by id desc
+
+Time : 11:53:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%welcom%'  OR order_no LIKE '%welcom%'  order by id desc
+
+Time : 11:53:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%welco%'  OR order_no LIKE '%welco%'  order by id desc
+
+Time : 11:53:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%wel%'  OR order_no LIKE '%wel%'  order by id desc
+
+Time : 11:53:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%w%'  OR order_no LIKE '%w%'  order by id desc
+
+Time : 11:53:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%welcome%'  OR order_no LIKE '%welcome%'  order by id desc
+
+Time : 11:53:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%welcom%'  OR order_no LIKE '%welcom%'  order by id desc
+
+Time : 11:53:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%welc%'  OR order_no LIKE '%welc%'  order by id desc
+
+Time : 11:53:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%we%'  OR order_no LIKE '%we%'  order by id desc
+
+Time : 11:53:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from home_sliders where `deleted_at` IS NULL and ( html LIKE '%w%'  OR order_no LIKE '%w%'  order by id desc
+
+Time : 11:52:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc
+
+Time : 11:52:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc
+
+Time : 11:52:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%compan%'  OR value LIKE '%compan%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%compan%'  OR value LIKE '%compan%' ) order by id desc
+
+Time : 11:52:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%compa%'  OR value LIKE '%compa%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%compa%'  OR value LIKE '%compa%' ) order by id desc
+
+Time : 11:52:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%comp%'  OR value LIKE '%comp%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%comp%'  OR value LIKE '%comp%' ) order by id desc
+
+Time : 11:52:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%com%'  OR value LIKE '%com%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%com%'  OR value LIKE '%com%' ) order by id desc
+
+Time : 11:52:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%c%'  OR value LIKE '%c%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%c%'  OR value LIKE '%c%' ) order by id desc
+
+Time : 11:52:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc
+
+Time : 11:52:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%compan%'  OR value LIKE '%compan%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%compan%'  OR value LIKE '%compan%' ) order by id desc
+
+Time : 11:52:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%compa%'  OR value LIKE '%compa%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%compa%'  OR value LIKE '%compa%' ) order by id desc
+
+Time : 11:52:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%comp%'  OR value LIKE '%comp%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%comp%'  OR value LIKE '%comp%' ) order by id desc
+
+Time : 11:52:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%c%'  OR value LIKE '%c%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%c%'  OR value LIKE '%c%' ) order by id desc
+
+Time : 11:52:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%sdsd%'  OR value LIKE '%sdsd%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%sdsd%'  OR value LIKE '%sdsd%' ) order by id desc
+
+Time : 11:52:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%sdsd%'  OR value LIKE '%sdsd%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%sdsd%'  OR value LIKE '%sdsd%' ) order by id desc
+
+Time : 11:52:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%s%'  OR value LIKE '%s%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%s%'  OR value LIKE '%s%' ) order by id desc
+
+Time : 11:51:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%sdsd%'  OR value LIKE '%sdsd%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%sdsd%'  OR value LIKE '%sdsd%' ) order by id desc
+
+Time : 11:51:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%s%'  OR value LIKE '%s%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%s%'  OR value LIKE '%s%' ) order by id desc
+
+Time : 11:51:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%test%'  OR value LIKE '%test%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%test%'  OR value LIKE '%test%' ) order by id desc
+
+Time : 11:51:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%test%'  OR value LIKE '%test%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%test%'  OR value LIKE '%test%' ) order by id desc
+
+Time : 11:51:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%tes%'  OR value LIKE '%tes%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%tes%'  OR value LIKE '%tes%' ) order by id desc
+
+Time : 11:51:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%t%'  OR value LIKE '%t%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%t%'  OR value LIKE '%t%' ) order by id desc
+
+Time : 11:51:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc
+
+Time : 11:51:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc
+
+Time : 11:51:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc
+
+Time : 11:51:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc
+
+Time : 11:51:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%company%'  OR value LIKE '%company%' ) order by id desc
+
+Time : 11:51:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%compan%'  OR value LIKE '%compan%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%compan%'  OR value LIKE '%compan%' ) order by id desc
+
+Time : 11:51:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%comp%'  OR value LIKE '%comp%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%comp%'  OR value LIKE '%comp%' ) order by id desc
+
+Time : 11:51:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%com%'  OR value LIKE '%com%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%com%'  OR value LIKE '%com%' ) order by id desc
+
+Time : 11:51:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key LIKE '%c%'  OR value LIKE '%c%' ) order by id desc' at line 1
+Raw SQL : select * from static_blocks where `deleted_at` IS NULL and ( key LIKE '%c%'  OR value LIKE '%c%' ) order by id desc
+
+Time : 11:00:29
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'interested_products' at row 1
+Raw SQL : insert into exhibitions set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-08-09 11:00:29', `updated_at` = NULL, `exhibition` = 'Virtual.drupa', `company_name` = 'R.E. ARCHER (FARMS) ', `first_name` = 'vasu', `last_name` = 'l', `address` = 'naroda', `city` = 'ahemdabad', `state` = 'Gujarat', `zip` = '384045', `country` = 'India', `code` = '91', `phone` = '1234567891', `mobile` = '9327039108', `email` = 'test@gmail.com', `interested_products` = '[\"Fully Automatic Exercise Book machine\",\"Automatic Book Production Line for Central Sewn Books\",\"Automatic Exercise Book Binding Machine\",\"Automatic Reel to Sheet Ruling\\/Flexo Printing Machine\",\"Cut Size Sheeter\",\"Cut Size Ream Wrapping Machine\",\"Shrink Wrapping Machine\",\"Auto Splicer\"]', `message` = 'demo', `date` = '2023-08-09 11:00:29'
+
+Time : 10:59:50
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'interested_products' at row 1
+Raw SQL : insert into exhibitions set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-08-09 10:59:50', `updated_at` = NULL, `exhibition` = 'Virtual.drupa', `company_name` = 'R.E. ARCHER (FARMS) ', `first_name` = 'vasu', `last_name` = 'l', `address` = 'naroda', `city` = 'ahemdabad', `state` = 'Gujarat', `zip` = '384045', `country` = 'India', `code` = '91', `phone` = '1234567891', `mobile` = '9327039108', `email` = 'test@gmail.com', `interested_products` = '[\"Fully Automatic Exercise Book machine\",\"Automatic Book Production Line for Central Sewn Books\",\"Automatic Exercise Book Binding Machine\",\"Automatic Reel to Sheet Ruling\\/Flexo Printing Machine\",\"Cut Size Ream Wrapping Machine\",\"Shrink Wrapping Machine\",\"Auto Splicer\"]', `message` = 'demo', `date` = '2023-08-09 10:59:50'

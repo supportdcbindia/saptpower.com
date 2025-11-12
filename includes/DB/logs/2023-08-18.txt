@@ -1,0 +1,11 @@
+Time : 20:56:35
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'message' at row 1
+Raw SQL : insert into quote_requests set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-08-18 20:56:35', `updated_at` = NULL, `name` = 'Bouhafs', `email` = 'etposerm@yahoo.fr', `phone` = '00213661203601', `message` = 'Hello,we are interested by this line of production A4 and A3 .
+We want more information and your Best commercial proposition please .
+
+We want to produce also book 32 ,48 ,96,120 pages and ( pen like brend bic) if you have this machine .
+Best regard 
+Mr Bouhafs 
+Director. 
+00213661203601
+00213555203601'

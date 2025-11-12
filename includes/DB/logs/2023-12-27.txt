@@ -1,0 +1,9 @@
+Time : 16:44:45
+SQLSTATE[HY000] [1045] Access denied for user 'u843592158_gurubhaiequipm'@'localhost' (using password: YES)
+
+Time : 16:40:21
+SQLSTATE[HY000] [1045] Access denied for user 'u843592158_gurubhaiequipm'@'localhost' (using password: YES)
+
+Time : 14:51:56
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gurubhaiequipments.latest_news' doesn't exist
+Raw SQL : select * from latest_news where 1=1 order by id desc

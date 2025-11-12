@@ -1,0 +1,19 @@
+Time : 20:28:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc' at line 1
+Raw SQL : select * from products where `slug`=boltrb`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc
+
+Time : 20:11:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc' at line 1
+Raw SQL : select * from products where `slug`=frm15`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc
+
+Time : 19:19:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc' at line 1
+Raw SQL : select * from products where `slug`=frm15`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc
+
+Time : 18:59:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc' at line 1
+Raw SQL : select * from products where `slug`=frm15`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc
+
+Time : 18:39:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc' at line 1
+Raw SQL : select * from products where `slug`=frm15`category`='["1"]'  AND `deleted_at` IS NULL order by tmp_sort asc

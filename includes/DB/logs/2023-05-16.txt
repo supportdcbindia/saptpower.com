@@ -1,0 +1,59 @@
+Time : 18:10:47
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'category' cannot be null
+Raw SQL : update products set  `id` = '2', `deleted_at` = NULL, `created_at` = '2023-05-16 18:10:47', `updated_at` = NULL, `category` = NULL, `endproduct` = NULL, `machineseries` = NULL, `unitwisefeatures` = NULL, `name` = 'test', `image` = '09534_OIP-removebg-preview_(2).png', `imagehtml` = 'oijhui', `imagehighlight` = 'uyguy', `brochure` = '1', `advantages` = 'ihuiohio', `upgrade` = 'iughuigh', `videothumb` = '3dc51_OIP-removebg-preview_(1).png', `videourl` = 'oihiuh', `description` = 'iuhui', `idealfor` = 'iuhiuyh', `specification` = 'uygugy', `slug` = 'uyfgguy', `meta_title` = 'uyguyg', `meta_description` = 'uiguyg', `small_image` = 'd2756_OIP-removebg-preview.png', `tmp_sort` = NULL, `image_alt_text` = 'iuhui' where  id='2'
+
+Time : 18:09:34
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'category' cannot be null
+Raw SQL : update products set  `id` = '2', `deleted_at` = NULL, `created_at` = '2023-05-16 18:09:34', `updated_at` = NULL, `category` = NULL, `endproduct` = NULL, `machineseries` = NULL, `unitwisefeatures` = NULL, `name` = 'test', `image` = '06d1f_OIP-removebg-preview_(2).png', `imagehtml` = 'oijhui', `imagehighlight` = 'uyguy', `brochure` = '1', `advantages` = 'ihuiohio', `upgrade` = 'iughuigh', `videothumb` = '7a513_OIP-removebg-preview_(1).png', `videourl` = 'oihiuh', `description` = 'iuhui', `idealfor` = 'iuhiuyh', `specification` = 'uygugy', `slug` = 'uyfgguy', `meta_title` = 'uyguyg', `meta_description` = 'uiguyg', `small_image` = 'a52f7_OIP-removebg-preview.png', `tmp_sort` = NULL, `image_alt_text` = 'iuhui' where  id='2'
+
+Time : 17:35:50
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'category' cannot be null
+Raw SQL : update products set  `id` = '3', `deleted_at` = NULL, `created_at` = '2023-05-16 17:35:50', `updated_at` = NULL, `category` = NULL, `endproduct` = NULL, `machineseries` = NULL, `unitwisefeatures` = NULL, `name` = 'sam', `image` = '', `imagehtml` = 'asdagd', `imagehighlight` = 'fdfds', `brochure` = '3', `advantages` = 'qwerw', `upgrade` = 'trdt', `videothumb` = '', `videourl` = 'uihyui', `description` = 'jbjh', `idealfor` = 'ujhh', `specification` = 'uiguig', `slug` = 'luigui', `meta_title` = 'luiguig', `meta_description` = 'iu;yhiuh', `small_image` = '', `tmp_sort` = NULL, `image_alt_text` = 'uigui' where  id='3'
+
+Time : 17:20:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machine_series where  order by id desc
+
+Time : 17:20:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machine_series where  order by id desc
+
+Time : 17:18:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1
+Raw SQL : select * from machine_series where  order by id desc
+
+Time : 17:04:56
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'tmp_sort' at row 1
+Raw SQL : insert into products set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-16 17:04:56', `updated_at` = NULL, `category` = '', `endproduct` = '', `machineseries` = '', `unitwisefeatures` = '', `name` = 'test', `image` = '', `imagehtml` = 'uygui', `imagehighlight` = 'oijhoi', `brochure` = '1', `advantages` = 'ojipo', `upgrade` = 'iuguy', `videothumb` = 'd7e41_images__3_-removebg-preview.png', `videourl` = 'iugu', `description` = 'uygtu', `idealfor` = '`uhuih', `specification` = 'uytguy', `slug` = 'uygui', `meta_title` = 'iughui', `meta_description` = 'iuui', `small_image` = '40f8c_476a09a1e33fbcc9ed1582b3a85f48ee-removebg-preview.png', `tmp_sort` = '', `image_alt_text` = 'yufguy'
+
+Time : 17:04:40
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'tmp_sort' at row 1
+Raw SQL : insert into products set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-16 17:04:40', `updated_at` = NULL, `category` = '', `endproduct` = '', `machineseries` = '', `unitwisefeatures` = '', `name` = 'test', `image` = '', `imagehtml` = 'uygui', `imagehighlight` = 'oijhoi', `brochure` = '1', `advantages` = 'ojipo', `upgrade` = 'iuguy', `videothumb` = '2f144_images__3_-removebg-preview.png', `videourl` = 'iugu', `description` = 'uygtu', `idealfor` = '`uhuih', `specification` = 'uytguy', `slug` = 'uygui', `meta_title` = 'iughui', `meta_description` = 'iuui', `small_image` = 'c70e6_476a09a1e33fbcc9ed1582b3a85f48ee-removebg-preview.png', `tmp_sort` = '', `image_alt_text` = 'yufguy'
+
+Time : 17:04:08
+SQLSTATE[01000]: Warning: 1265 Data truncated for column 'tmp_sort' at row 1
+Raw SQL : insert into products set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-16 17:04:08', `updated_at` = NULL, `category` = '', `endproduct` = '', `machineseries` = '', `unitwisefeatures` = '', `name` = 'test', `image` = '', `imagehtml` = 'uygui', `imagehighlight` = 'oijhoi', `brochure` = '1', `advantages` = 'ojipo', `upgrade` = 'iuguy', `videothumb` = '235a3_images__3_-removebg-preview.png', `videourl` = 'iugu', `description` = 'uygtu', `idealfor` = '`uhuih', `specification` = 'uytguy', `slug` = 'uygui', `meta_title` = 'iughui', `meta_description` = 'iuui', `small_image` = '25fb3_476a09a1e33fbcc9ed1582b3a85f48ee-removebg-preview.png', `tmp_sort` = '', `image_alt_text` = 'yufguy'
+
+Time : 17:04:05
+SQLSTATE[01000]: Warning: 1265 Data truncated for column 'tmp_sort' at row 1
+Raw SQL : insert into products set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-16 17:04:05', `updated_at` = NULL, `category` = '', `endproduct` = '', `machineseries` = '', `unitwisefeatures` = '', `name` = 'test', `image` = '', `imagehtml` = 'uygui', `imagehighlight` = 'oijhoi', `brochure` = '1', `advantages` = 'ojipo', `upgrade` = 'iuguy', `videothumb` = 'b3d28_images__3_-removebg-preview.png', `videourl` = 'iugu', `description` = 'uygtu', `idealfor` = '`uhuih', `specification` = 'uytguy', `slug` = 'uygui', `meta_title` = 'iughui', `meta_description` = 'iuui', `small_image` = 'c1352_476a09a1e33fbcc9ed1582b3a85f48ee-removebg-preview.png', `tmp_sort` = '', `image_alt_text` = 'yufguy'
+
+Time : 17:04:01
+SQLSTATE[01000]: Warning: 1265 Data truncated for column 'tmp_sort' at row 1
+Raw SQL : insert into products set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-16 17:04:01', `updated_at` = NULL, `category` = '', `endproduct` = '', `machineseries` = '', `unitwisefeatures` = '', `name` = 'test', `image` = '', `imagehtml` = 'uygui', `imagehighlight` = 'oijhoi', `brochure` = '1', `advantages` = 'ojipo', `upgrade` = 'iuguy', `videothumb` = 'bc252_images__3_-removebg-preview.png', `videourl` = 'iugu', `description` = 'uygtu', `idealfor` = '`uhuih', `specification` = 'uytguy', `slug` = 'uygui', `meta_title` = 'iughui', `meta_description` = 'iuui', `small_image` = '7530e_476a09a1e33fbcc9ed1582b3a85f48ee-removebg-preview.png', `tmp_sort` = '', `image_alt_text` = 'yufguy'
+
+Time : 17:03:19
+SQLSTATE[01000]: Warning: 1265 Data truncated for column 'tmp_sort' at row 1
+Raw SQL : insert into products set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-16 17:03:19', `updated_at` = NULL, `category` = '', `endproduct` = '', `machineseries` = '', `unitwisefeatures` = '', `name` = 'test', `image` = '', `imagehtml` = 'uygui', `imagehighlight` = 'oijhoi', `brochure` = '1', `advantages` = 'ojipo', `upgrade` = 'iuguy', `videothumb` = '3faec_images__3_-removebg-preview.png', `videourl` = 'iugu', `description` = 'uygtu', `idealfor` = '`uhuih', `specification` = 'uytguy', `slug` = 'uygui', `meta_title` = 'iughui', `meta_description` = 'iuui', `small_image` = 'eb8c1_476a09a1e33fbcc9ed1582b3a85f48ee-removebg-preview.png', `tmp_sort` = '', `image_alt_text` = 'yufguy'
+
+Time : 14:39:07
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'popimage' cannot be null
+Raw SQL : insert into unit_wise_features set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-16 14:39:07', `updated_at` = NULL, `name` = 'new', `description` = 'demo', `image` = '55844_orange-removebg-preview.png', `popimage` = NULL
+
+Time : 14:34:57
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'popimage' at row 1
+Raw SQL : insert into unit_wise_features set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-16 14:34:57', `updated_at` = NULL, `name` = 'new', `description` = 'demo', `image` = '0959a_orange-removebg-preview.png', `popimage` = ''
+
+Time : 12:00:12
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'image' at row 1
+Raw SQL : insert into testimonials set `id` = 0, `deleted_at` = NULL, `created_at` = '2023-05-16 12:00:12', `updated_at` = NULL, `name` = 'test', `designation` = 'hii', `message` = 'hello', `image` = '', `image_alt_text` = 'tyfty'

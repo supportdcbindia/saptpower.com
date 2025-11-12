@@ -1,0 +1,2 @@
+Time : 19:20:30
+SQLSTATE[HY000] [1049] Unknown database 'custom_newframework'
