@@ -2,11 +2,11 @@
 function isMobile() {
 return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
 }
-$companyname = "Dolphin Laser Machine Pvt.Ltd";
-$phone = "+91 99981 42609"; /* FORMATE: +91 00000 00000 */
-$whatappphone = "919998142609";/* FORAMTE: 91000000000 */
-$email = "inquiry@dolphinlasermachine.com";
-$logo = "images/footer.webp"; /* FORMATE: images/logo3.png */
+$companyname = "SAPT POWERTRONICS PVT. LTD.";
+$phone = "+91 81416 60211"; /* FORMATE: +91 00000 00000 */
+$whatappphone = "918141660211";/* FORAMTE: 91000000000 */
+$email = "sales@saptpower.com";
+$logo = "images/Sapt-Power-Logo.png"; /* FORMATE: images/logo3.png */
 $message = "Hello Team ".$companyname.", I was going through your website and wish to get connected for product discussion";
 ?>
 <div class="sticklist">
@@ -22,7 +22,7 @@ $message = "Hello Team ".$companyname.", I was going through your website and wi
             </a>
         </li>
         <li class="download-pdf none-li inquiery-icon  imgnone">
-            <a pdf="pdf/dolphin-catalague.pdf" href="pdf/dolphin-catalague.pdf" class="click2">
+            <a pdf="pdf/catalague.pdf" href="pdf/catalague.pdf" class="click2">
                 <span class="icon"> <i class="fa fa-file-pdf"></i></span> <span class="btn-text">Catalogue</span>
             </a>
         </li>
@@ -224,7 +224,7 @@ $message = "Hello Team ".$companyname.", I was going through your website and wi
                 class="fa fa-envelope" style="margin-right: 5px;"></i> Enquire Now</a>
     </div>
     <div class="book-app" style="background: #222;">
-        <a pdf="pdf/dolphin-catalague.pdf" class="nav_up click2" href="pdf/dolphin-catalague.pdf"
+        <a pdf="pdf/catalague.pdf" class="nav_up click2" href="pdf/catalague.pdf"
             style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-file-pdf"
                 style="margin-right: 5px;"></i> Catalogue</a>
     </div>

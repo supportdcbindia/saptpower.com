@@ -93,14 +93,16 @@
 <script src="js/slick-animation.min.js"></script>
 <script src="js/owl.js"></script>
 <script src="js/script.js"></script>
-<script src="js/index.js?ver=1.2"></script>
-<script src="js/jquery.validate.min.js"></script>
-<script src="js/form-buzz.js"></script>
+<script src="js/jquery.validate.min.js?ver=<?php echo time(); ?>"></script>
+<script src="js/index.js?ver=<?php echo time(); ?>"></script>
+<script src="js/form-buzz.js?ver=<?php echo time(); ?>"></script>
+
+
 <script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.pack.js'></script>
-<script src="./js/odometer.min.js"></script>
-<script src="./js/gsap.min.js"></script>
-<script src="./JS/ScrollTrigger.min.js"></script>
-<script src="./JS/ScrollSmoother.min.js"></script> 
+<script src="js/odometer.min.js"></script>
+<script src="js/gsap.min.js"></script>
+<script src="js/ScrollTrigger.min.js"></script>
+<script src="js/ScrollSmoother.min.js"></script> 
 
 
 <script>
@@ -230,7 +232,6 @@ function myFunction(event) {
 	$('#tab-'+tabID).addClass('active').siblings().removeClass('active');
 });
 </script>
-
 
 
 </body>

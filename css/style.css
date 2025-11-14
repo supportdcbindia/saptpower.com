@@ -319,8 +319,8 @@ iframe {
 
 
 section>.container {
-  padding-top: var(--container-pt);
-  padding-bottom: var(--container-pt);
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 @media (min-width: 1400px) {
@@ -5819,7 +5819,7 @@ Section Title
 
   .home1-service-slider .owl-nav,
   .home2-service-slider .owl-nav {
-    top: 0;
+    top: 111px;
   }
 }
 
@@ -5827,7 +5827,7 @@ Section Title
 
   .home1-service-slider .owl-nav,
   .home2-service-slider .owl-nav {
-    position: relative;
+    position: absolute;
     -webkit-transform: translateY(0%);
     transform: translateY(0%);
   }
@@ -5840,9 +5840,9 @@ Section Title
   -webkit-box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.08);
   box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.08);
   font-size: 20px;
-  height: 60px;
-  line-height: 60px;
-  width: 60px;
+  height: 40px;
+  line-height: 40px;
+  width: 40px;
 }
 
 .home1-service-slider .owl-nav .owl-prev:hover,
@@ -5862,12 +5862,13 @@ Section Title
 .service-block-home2 .inner-box {
   position: relative;
   /* background: #ffffff; */
-  padding: 40px 60px 35px 30px;
+  padding: 20px 60px 20px 30px;
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
   -webkit-box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.08);
   box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.08);
   background-color: var(--bg-theme-color1);
+  line-height: 20px;
 }
 
 .service-block-home2 .inner-box:hover {
@@ -5967,7 +5968,7 @@ Section Title
   color: var(--theme-color3);
   font-size: 20px;
   font-weight: 700;
-  margin-bottom: 12px;
+  margin-bottom: 0px;
 }
 
 .service-block-home2 h4 a {
@@ -5992,9 +5993,9 @@ Section Title
   background-color: #fff;
   color: #000;
   font-weight: 700;
-  font-size: 12px;
+  font-size: 10px;
   line-height: 25px;
-  padding: 10px 20px;
+  padding: 10px 5px;
   letter-spacing: 1px;
   position: absolute;
   right: 45px;
@@ -6006,6 +6007,7 @@ Section Title
   transform-origin: right top;
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
+  display: none;
 }
 
 .service-block-home2:hover .read-more {
@@ -14842,9 +14844,25 @@ video.bg-video {
   .sec-title h2 br {
     display: none;
   }
-
+.service-block-home2 h4 {
+    color: var(--theme-color3);
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+  .home1-service-slider .owl-nav .owl-prev,
+.home1-service-slider .owl-nav .owl-next,
+.home2-service-slider .owl-nav .owl-prev,
+.home2-service-slider .owl-nav .owl-next {
+  -webkit-box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.08);
+  font-size: 20px;
+  height: 40px;
+  line-height: 40px;
+  width: 40px;
+}
   .sec-title h1 {
-    font-size: 34px;
+    font-size: 26px!important;
   }
 
   .sec-title h1 br {
@@ -17234,4 +17252,8 @@ section.counter-area.space {
 
 .form-wizard-content.show {
     display: block;
+}
+span.plus {
+    font-weight: 500;
+    font-size: 22px;
 }

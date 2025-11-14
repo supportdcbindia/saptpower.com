@@ -24,7 +24,7 @@
         text-align: center;
         line-height: 32px;
         box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
-        background: #3e4095;
+        background: #0098da;
         color: #fff;
         font-size: 20px;
         -webkit-transition: all .3s ease 0s;
@@ -181,7 +181,7 @@
     }
 
     .download-pdf {
-        background: #3e4095 !important;
+        background: #0098da !important;
         color: #fff !important;
         border: 0px solid transparent !important;
     }

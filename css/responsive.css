@@ -317,7 +317,7 @@
 @media only screen and (max-width:599px){
 .service-block-three .inner-box{padding:30px 25px;min-height:auto}
 .banner-section-two .content-box .title-box{padding:50px 25px 40px}
-.banner-section-two .content-box .title,.sec-title h2{font-size:36px}
+.banner-section-two .content-box .title,.sec-title h2{font-size: 26px;}
 .banner-section-four .content-box .title{font-size:42px;letter-spacing:0}
 .banner-section-four .content-box .text{font-size:16px;line-height:26px}
 .main-header .header-lower .logo-box{min-width:auto;margin-right:0}
@@ -332,7 +332,7 @@
 .offer-section .content-column .info-box{padding-left:0}
 .offer-section .content-column .info-box .icon{position:relative;margin-bottom:20px;display:block}
 .call-to-action .title-box .title{font-size:32px}
-.testimonial-block .text{font-size:18px;line-height:26px}
+.testimonial-block .text{font-size: 14px;line-height:26px}
 .about-info-box{padding:30px 0 10px;flex-direction:column;text-align:center}
 .about-info-box .icon{height:120px;width:120px;border-radius:50%}
 .about-info-box .content{padding:20px}

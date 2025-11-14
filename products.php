@@ -20,14 +20,14 @@
         <div class="row gy-4">
             <div class="col-xl-4 col-lg-6 col-sm-12" data-animation="fadeInUp" data-delay="0.1" data-duration="1.2">
                 <div class="single-service-hr">
-                    <a href="jonline-ups.php" class="thumbnail">
-                        <img src="./images/inner-pages/products/online-ups/online-ups-3-in-3-out/online-ups-3-in-3-out-1.webp" alt="Online Ups">
+                    <a href="online-ups.php" class="thumbnail">
+                        <img src="images/inner-pages/products/online-ups/online-ups-3-in-3-out/1.webp" alt="Online Ups">
                     </a>
                     <div class="inner">
-                        <a href="jonline-ups.php">
+                        <a href="online-ups.php">
                             <h3 class="title">Online Ups</h3>
                         </a>
-                       <a href="jonline-ups.php" class="theme-btn btn-style-one">
+                       <a href="online-ups.php" class="theme-btn btn-style-one">
                             <span class="btn-title">Read more</span>
                         </a>
                     </div>
