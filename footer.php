@@ -10,7 +10,7 @@
                             “Powering industries with reliable power-conditioning solutions since 2016.<br>
                              Trusted partner for Pharma, Medical, and Engineering sectors.”
                         </div>
-                        <ul class="social-links">
+                        <!-- <ul class="social-links">
                             <li><a
                                     href="javascript:;"><span
                                         class="fab fa-facebook-f"></span></a></li>
@@ -20,7 +20,7 @@
                                         class="fab fa-youtube"></span></a></li>
                             <li><a href="javascript:;"><span
                                         class="fab fa-linkedin"></span></a></li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -53,9 +53,9 @@
                             <li><i class="fa fa-map-marker-alt"></i>
                                 68, Gangotri Estate Nr. Ramol Overbridge, Phase 4, GIDC Vatwa, Ahmedabad-382445, Gujarat.
                             </li>
-                            <li><i class="fa fa-phone"></i><a href="tel:+91 81416 60211"
-                                    onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '+91 81416 60211' });">
-                                    +91 81416 60211</a>
+                            <li><i class="fa fa-phone"></i><a href="tel:+917069043999"
+                                    onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '+91 70690 43999' });">
+                                    +91 70690 43999</a>
                             </li>
                             <li><i class="fa fa-envelope"></i> <a
                                     href="mailto:sales@saptpower.com">sales@saptpower.com</a>

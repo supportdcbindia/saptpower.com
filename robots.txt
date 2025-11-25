@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /temp/
+Disallow: /config/
+Disallow: /*?*
+
+Allow: /
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+Sitemap: https://saptpower.com/sitemap.xml

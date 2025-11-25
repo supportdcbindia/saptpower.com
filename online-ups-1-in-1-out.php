@@ -29,7 +29,7 @@
                                             <?php
 											$nb_elem_per_page = 50;
 											$page = isset($_GET['page'])?intval($_GET['page']-1):0;
-											$data = glob("images/inner-pages/products/online-ups/online-ups-1in-1-out/*.*");
+											$data = glob("./images/online-ups/online-ups-1-in-1-out.webp");
 											$number_of_pages = intval(count($data)/$nb_elem_per_page)+1;
 											?>
                                             <?php
@@ -52,7 +52,7 @@
                                         <?php
 										$nb_elem_per_page = 50;
 										$page = isset($_GET['page'])?intval($_GET['page']-1):0;
-										$data = glob("images/inner-pages/products/online-ups/online-ups-1in-1-out/*.*");
+										$data = glob("./images/online-ups/online-ups-1-in-1-out.webp");
 										$number_of_pages = intval(count($data)/$nb_elem_per_page)+1;
 										if(count($data) > 1){
 										?>
@@ -92,20 +92,20 @@
                         </div>
                     </div>
                     <div class="card-top__right col-md-7 col-sm-12 col-xs-12">
-                        <h1>
-                            <div class="revealOut innerh1"><span class="revealIn">Online Ups 1 In 1 Out</span></div>
+                        <div class="card1-header">
+                        <h1 class="mb-0">
+                            <div class="revealOut innerh1">
+                                <span class="revealIn">Online Ups 1 In 1 Out</span>
+                            </div>
                         </h1>
+                         <img src="./images/logo/elite.webp" alt="logo" style="height: 45px;">
+                         </div>
                         <hr>
                        
                         <div class="inner-content">
-                            <p>SAPT offers the largest selection of power management and protection solutions available
-                                in the industry. From the desktop to the data center, from AC-powered to DC-powered
-                                equipment, SAPT is your one-stop partner for all your power needs.</p>
+                            <p>SAPT presents the PowerXcel ELITE Series, a high-performance, single-phase online UPS with a built-in isolation transformer, and modular IGBT-based Rectifier and inverter.</p>
 
-                            <p>The advance IGBT inverter, coupled with an isolation transformer, enhances the
-                                reliability and load adaptability. This unique construction for input and output
-                                isolation provides the advantages of noise rejection as well as clean and safe neutral
-                                line to the load. </p>
+                            <p>Designed for critical applications, this UPS ensures pure, stable, and noise-free power, offering superior protection for sensitive electronic equipment.</p>
                         </div>
 
                         <h4>Features</h4>
@@ -113,19 +113,16 @@
                             <div class="col-md-12">
                                 <div class="feature-list">
                                     <ul>
-                                    <li>Fully Digital Signal Processing using the latest DSP technology </li>
-                                    <li>IGBT Rectifier so high input power factor</li>
-                                    <li>Dynamic Bypass with Eco mode</li>
-                                    <li>Remote management</li>
-                                    <li>Wide input voltage range</li>
+                                    <li>True Online Double Conversion Technology</li>
+                                    <li>Fully Digital Signal Processing using the latest DSP Technology</li>
+                                    <li>Wide Input Voltage Range</li>
                                     <li>Compatible with Engine Generator</li>
-                                    <li>High reliability for Maximum System Availability</li>
-                                    <li>Handles 3: Crest Factor Loads</li>
-                                    <li>Intelligent Battery Management</li>
-                                    <li>Large LCD Display and Mimic Panel for Real- time information</li>
-                                    <li>Output isolation between UPS and Critical Load</li>
-                                    <li>Low electro-magnetic interference</li>
-                                    <li>Complies with international safety standards</li>
+                                    <li>LCD/LED Display</li>
+                                    <li>IGBT Inverter with Multiloop Control</li>
+                                    <li>Output Isolation Between UPS and Critical Load</li>
+                                    <li>Wheel Desing for easy movement and relocation</li>
+                                    <li>Compact and Versatile Desing</li>
+                                    
                                 </ul>
                                 </div>
                             </div>
@@ -161,17 +158,16 @@
                                 </tr>
                                 <tr>
                                     <td>TYPE</td>
-                                    <td colspan="4">Low Frequency Transformer based True On line Double Conversion</td>
+                                    <td colspan="4">Low Frequency Isolation Transformer Based</td>
                                 </tr>
 
                                 <tr>
                                     <th rowspan="6" class="text-center align-middle"><strong>INPUT</strong></th>
                                     <td>Phase</td>
-                                    <td colspan="4">Single Phase</td>
+                                    <td colspan="4">Single Phase (IP+N)</td>
                                 </tr>
                                 <tr>
-                                    <td>Input PF</td>
-                                    <td colspan="4">0.9 (Standard) /1 (Customized)</td>
+                                    
                                 </tr>
                                 <tr>
                                     <td>Input Voltage Range</td>
@@ -193,76 +189,63 @@
                                 <tr>
                                      <th rowspan="8" class="text-center align-middle"><strong>OUTPUT</strong></td>
                                     <td>Nominal Voltage</td>
-                                    <td colspan="4">220V/230V/240V AC, 1P+N</td>
+                                    <td colspan="4">220/230/240V AC, (IP+N)</td>
                                 </tr>
                                 <tr>
-                                    <td>Output Voltage Regulation</td>
-                                    <td colspan="4">±1 % for Linear &amp; Non Linear Load</td>
+                                    <td>Regulation</td>
+                                    <td colspan="4">±1% for Linear & Non-Linear Load</td>
                                 </tr>
                                 <tr>
                                     <td>Output Frequency</td>
-                                    <td colspan="4">50Hz ± 0.5%</td>
+                                    <td colspan="4">50HZ ± 0.5%</td>
                                 </tr>
                                 <tr>
                                     <td>Crest Factor</td>
-                                    <td colspan="4">&gt; 3:1</td>
+                                    <td colspan="4">> 3:1</td>
+                                </tr>
+                                <tr>
+                                    <td>Power Factor</td>
+                                    <td colspan="4">0.8</td>
                                 </tr>
                                 <tr>
                                     <td>Output THD</td>
-                                    <td colspan="4">Linear Load &lt; 3%, Non -Linear Load &lt; 5%</td>
+                                    <td colspan="4">Linear Load < 3%, Non-Linear Load < 5%</td>
                                 </tr>
                                 <tr>
-                                    <td>Dynamic Characteristics</td>
-                                    <td colspan="4">Instant Voltage &lt; ±5% (From 0 to</td>
+                                    <td>Efficiency</td>
+                                    <td colspan="4">Up to 90% (Full Load)</td>
                                 </tr>
                                 <tr>
-                                    <td>Overload Capacity</td>
-                                    <td colspan="4">At 115% Load Normal Work, 125% Load 10 Minute<br>150% Load 1 Minute,
-                                        200% Load 1 Second</td>
-                                </tr>
-                                <tr>
-                                    <td>Inverter Efficiency</td>
-                                    <td colspan="4">More than 93% (Full Load)</td>
+                                    
                                 </tr>
 
                                 <tr>
                                    <th rowspan="5" class="text-center align-middle"><strong>BATTERY</strong></td>
-                                    <td>Nominal DC Voltage</td>
-                                    <td>96V DC</td>
-                                    <td>180V DC</td>
-                                    <td>180V DC</td>
-                                    <td>180V DC</td>
+                                    <td>DC Voltage</td>
+                                    <td>96</td>
+                                    <td>180</td>
+                                    <td>180</td>
+                                    <td>180</td>
+                                </tr>
+                                <tr>
+                                    <td>Nur-nber of Battery</td>
+                                    <td colspan="1">8</td>
+                                    <td colspan="3">15</td>
                                 </tr>
                                 <tr>
                                     <td>Charging Current</td>
-                                    <td colspan="4">2-10 Amp Settable</td>
+                                    <td colspan="4">1-10 Amp (Settable)</td>
+
                                 </tr>
                                 <tr>
-                                    <td>Low Voltage Alarm</td>
-                                    <td>84</td>
-                                    <td>158</td>
-                                    <td>158</td>
-                                    <td>158</td>
                                 </tr>
                                 <tr>
-                                    <td>Low Voltage Trip</td>
-                                    <td>80</td>
-                                    <td>150</td>
-                                    <td>150</td>
-                                    <td>150</td>
-                                </tr>
-                                <tr>
-                                    <td>High Voltage Trip</td>
-                                    <td>116</td>
-                                    <td>218</td>
-                                    <td>218</td>
-                                    <td>218</td>
                                 </tr>
 
                                 <tr>
                                    <th rowspan="3" class="text-center align-middle"><strong>BYPASS</strong></td>
                                     <td>Phase</td>
-                                    <td colspan="4">Single Phase (P+N)</td>
+                                    <td colspan="4">Single Phase (IP+N)</td>
                                 </tr>
                                 <tr>
                                     <td>Manual</td>
@@ -270,7 +253,7 @@
                                 </tr>
                                 <tr>
                                     <td>Static</td>
-                                    <td colspan="4">No Break</td>
+                                    <td colspan="4">No Break (Optional)</td>
                                 </tr>
 
                                 <tr>
@@ -284,7 +267,7 @@
                                 </tr>
                                 <tr>
                                     <td>Battery Protection</td>
-                                    <td colspan="4">Over Charge, Over-discharge Protection</td>
+                                    <td colspan="4">Over Charge, Over Discharge protection</td>
                                 </tr>
                                 <tr>
                                     <td>Temperature Protection</td>
@@ -295,46 +278,132 @@
                                     <th rowspan="8" class="text-center align-middle">
                                         <strong>GENERAL<br>PARAMETERS</strong></td>
                                     <td>Working Environment</td>
-                                    <td colspan="4">Temp: 10 - 55°C, Relative humidity : 30% – 90%</td>
+                                    <td colspan="4">Temp: 10-550 C, Relative Humidity : 30-90%</td>
                                 </tr>
                                 <tr>
-                                    <td>Communication Interface</td>
-                                    <td colspan="4">RS232/RS485, optional dry contact, SNMP card<br>(For remote control
-                                        via internet)</td>
+                                    <td>Display</td>
+                                    <td colspan="4">LCD + Physical Button</td>
                                 </tr>
                                 <tr>
-                                    <td>Parallel Operation</td>
-                                    <td colspan="4">Hot standby</td>
-                                </tr>
-                                <tr>
-                                    <td>Protection Level</td>
-                                    <td colspan="4">IP21</td>
-                                </tr>
-                                <tr>
-                                    <td>Safety performance</td>
-                                    <td colspan="4">V in-n, V out-n 2000Vac, creepage&lt;10mA,<br>Insulating resistance
-                                        &gt;2 MΩ (5 V DC)</td>
+                                    <td>Alarm</td>
+                                    <td colspan="4">Low Battery, Abnormal AC Input, UPS Failure, etc.</td>
                                 </tr>
                                 <tr>
                                     <td>Noise (dB)</td>
-                                    <td colspan="2">50-55</td>
-                                    <td colspan="2">55-60</td>
+                                    <td colspan="4">< 55</td>
                                 </tr>
                                 <tr>
-                                    <td>Dimension W x H x D (mm)</td>
-                                    <td colspan="2">345 x 565 x 610</td>
-                                    <td colspan="2">390 x 680 x 680</td>
+                                    <td>Dimensions (L*W*H)</td>
+                                    <td colspan="2">412 X 254 X 528</td>
+                                    <td colspan="2">586 X 304 X 561</td>
                                 </tr>
                                 <tr>
                                     <td>Weight (kg)</td>
-                                    <td>55</td>
-                                    <td>66</td>
-                                    <td>91</td>
-                                    <td>100</td>
+                                    <td>42</td>
+                                    <td>52</td>
+                                    <td>77</td>
+                                    <td>87</td>
                                 </tr>
                             </tbody>
                         </table>
 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="industries-section process-section" data-aos="fade-up" data-aos-duration="3000">
+    <div class="container-fluid">
+        <div class="sec-title text-center">
+            <span class="sub-title">Application</span>
+            <h2>Industries We Serve</h2>
+        </div>
+        <div class="outer-box">
+            <div class="ind-carousel owl-carousel owl-theme">
+                <div class="item">
+                    <img src="./images/online-ups/industry/chemical.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Chemical
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/commercial.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Commercial
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/industrial.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Industrial
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/it.webp" alt="">
+                    <div class="overl-name">
+                        <h2>IT
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/machines.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Machines
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/pharma.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Pharma
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/plastic.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Plastic
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/printing.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Printing
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/process.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Process
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/textile.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Textile
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/aerospace.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Aerospace
+                        </h2>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="./images/online-ups/industry/transport.webp" alt="">
+                    <div class="overl-name">
+                        <h2>Transport
+                        </h2>
                     </div>
                 </div>
             </div>

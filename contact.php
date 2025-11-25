@@ -46,7 +46,7 @@
                                 </div>
                                 <div class="text">
                                     <h6 class="mb-1">Have any question?</h6>
-                                    <a href="tel:+918141660211">+91 81416 60211</a><br>
+                                    <a href="tel:+917069043999">+91 70690 43999</a><br>
                                     <a href="tel:++919426835656">+91 94268 35656</a>
                                 </div>
                             </li>

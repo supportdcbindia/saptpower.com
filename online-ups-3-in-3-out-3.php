@@ -5,10 +5,10 @@
         <div class="breadcrumbs-inner">
             <div class="container">
                 <div class="breadcrumbs-text">
-                    <h1 class="breadcrumbs-title">PowerXcel Energi : Online UPS 3 In 3 10kVA - 60kVA</h1>
+                    <h1 class="breadcrumbs-title">PowerXcel Xpert : Online UPS 3 In 3 80kVA - 300kVA</h1>
                     <ul class="breadcrumbs-subtitle">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="javascript:;">PowerXcel Energi : Online UPS 3 In 3 10kVA - 60kVA</a></li>
+                        <li><a href="javascript:;">PowerXcel Xpert : Online UPS 3 In 3 80kVA - 300kVA</a></li>
                     </ul>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                                             <?php
 											$nb_elem_per_page = 50;
 											$page = isset($_GET['page'])?intval($_GET['page']-1):0;
-											$data = glob("./images/online-ups/online-ups-3-in-3-out/1.webp");
+											$data = glob("./images/online-ups/online-ups-3-in-3-out/3.webp");
 											$number_of_pages = intval(count($data)/$nb_elem_per_page)+1;
 											?>
                                             <?php
@@ -52,7 +52,7 @@
                                         <?php
 										$nb_elem_per_page = 50;
 										$page = isset($_GET['page'])?intval($_GET['page']-1):0;
-										$data = glob("./images/online-ups/online-ups-3-in-3-out/1.webp");
+										$data = glob("./images/online-ups/online-ups-3-in-3-out/3.webp");
 										$number_of_pages = intval(count($data)/$nb_elem_per_page)+1;
 										if(count($data) > 1){
 										?>
@@ -93,23 +93,18 @@
                     </div>
                     <div class="card-top__right col-md-7 col-xs-12">
                         <div class="card1-header">
-                            <h1 class="mb-0">
-                                <div class="revealOut innerh1">
-                                    <span class="revealIn">PowerXcel Energi : Online UPS 3 In 3 10kVA - 60kVA</span>
-                                </div>
-                            </h1>
-                            <img src="./images/logo/energi.webp" alt="logo" style="height: 45px;">
-                        </div>
+                        <h1 class="mb-0">
+                            <div class="revealOut innerh1">
+                                <span class="revealIn">PowerXcel Xpert : Online UPS 3 In 3 80kVA - 300kVA</span>
+                            </div>
+                        </h1>
+                         <img src="./images/logo/xpert.webp" alt="logo" style="height: 45px;">
+                         </div>
                         <hr>
 
                         <div class="inner-content">
-                            <p>SAPT presents the PowerXcel ENERGI Series, a state-of-the art power backup solution
-                                designed with a built-in isolation transformer, SCR-based rectifier, and IGBT-based
-                                inverter.</p>
-
-                            <p>Engineered for critical applications, this UPS ensures maximum reliability, superior
-                                power conditioning, and complete electrical isolation to safeguard sensitive equipment.
-                            </p>
+                            <p>SAPT proudly presents the PowerXcel XPERT Series, a high-performance, large-capacity Online UPS featuring an IGBT-based rectifier, IGBT-based inverter, and a built-in isolation transformer.</p>
+                            <p>Engineered for heavy industrial, commercial, and mission-critical applications, this UPS ensures maximum power reliability, superior efficiency, and complete electrical isolation, making it the perfect choice for high-demand environments.</p>
                         </div>
 
                         <h4>Features</h4>
@@ -118,6 +113,8 @@
                                 <div class="feature-list">
                                     <ul>
                                         <li>True Online Double Conversion Technology</li>
+                                        <li>Fully Digital Signal Processing using the latest DSP Technology</li>
+                                        <li>PFC Based Rectifier</li>
                                         <li>Wide Input Voltage Range</li>
                                         <li>Compatible with Engine Generator</li>
                                         <li>LCD/LED Display</li>
@@ -145,95 +142,94 @@
                                 <tr>
                                     <th rowspan="3" align="center" valign="middle"><strong>CAPACITY</strong></th>
                                     <td colspan="1">kVA</td>
-                                    <td>10</td>
-                                    <td>15</td>
-                                    <td>20</td>
-                                    <td>30</td>
-                                    <td>40</td>
-                                    <td>50</td>
-                                    <td>60</td>
+                                    <td>80</td>
+                                    <td>100</td>
+                                    <td>120</td>
+                                    <td>160</td>
+                                    <td>200</td>
+                                    <td>300</td>
                                 </tr>
                                 <tr>
                                     <td>kW</td>
-                                    <td>8</td>
-                                    <td>12</td>
-                                    <td>16</td>
-                                    <td>24</td>
-                                    <td>32</td>
-                                    <td>40</td>
-                                    <td>48</td>
+                                    <td>64</td>
+                                    <td>80</td>
+                                    <td>96</td>
+                                    <td>128</td>
+                                    <td>160</td>
+                                    <td>240</td>
                                 </tr>
                                 <tr>
                                     <td>TYPE</td>
-                                    <td colspan="7" align="center">Low Frequency Isolation Transformer Based</td>
+                                    <td colspan="6" align="center">Low Frequency Isolation Transformer Based</td>
                                 </tr>
                                 <tr>
                                     <th rowspan="6" align="center" valign="middle"><strong>INPUT</strong></th>
                                     <td>Phase</td>
-                                    <td colspan="7" align="center">Three Phase (3P+N)</td>
-                                </tr>
-                                <tr>
-
+                                    <td colspan="6" align="center">Three Phase (3P+N)</td>
                                 </tr>
                                 <tr>
                                     <td>Input Voltage Range</td>
-                                    <td colspan="7" align="center">415V AC ± 25%</td>
+                                    <td colspan="6" align="center">415V AC ± 25%</td>
                                 </tr>
                                 <tr>
                                     <td>Input Frequency</td>
-                                    <td colspan="7" align="center">50HZ ± 5%</td>
+                                    <td colspan="6" align="center">50HZ ± 5%</td>
                                 </tr>
                                 <tr>
                                     <td>Input Ripple</td>
-                                    <td colspan="7" align="center">
+                                    <td colspan="6" align="center">
                                         < 5%</td>
                                 </tr>
                                 <tr>
+                                    <td>Power Factor</td>
+                                    <td colspan="6" align="center">>0.95%</td>
+                                </tr>
+                                <tr>
                                     <td>Soft Start</td>
-                                    <td colspan="7" align="center">0~100% 5 second</td>
+                                    <td colspan="6" align="center">0~100% 5 second</td>
                                 </tr>
                                 <tr>
                                     <th rowspan="8" align="center" valign="middle"><strong>OUTPUT</strong></th>
                                     <td>Nominal Voltage</td>
-                                    <td colspan="7" align="center">380/400/415V AC, (3P+N)</td>
+                                    <td colspan="6" align="center">380/400/415V AC, (3P+N)</td>
                                 </tr>
                                 <tr>
                                     <td>Regulation</td>
-                                    <td colspan="7" align="center">±1% for Linear & Non-Linear Load</td>
+                                    <td colspan="6" align="center">±1% for Linear & Non-Linear Load</td>
                                 </tr>
                                 <tr>
                                     <td>Output Frequency</td>
-                                    <td colspan="7" align="center">50HZ ± 0.5%</td>
+                                    <td colspan="6" align="center">50HZ ± 0.5%</td>
                                 </tr>
                                 <tr>
                                     <td>Crest Factor</td>
-                                    <td colspan="7" align="center">&gt; 3:1</td>
+                                    <td colspan="6" align="center">&gt; 3:1</td>
                                 </tr>
                                 <tr>
                                     <td>Power Factor</td>
-                                    <td colspan="7" align="center">0.8</td>
+                                    <td colspan="6" align="center">0.8</td>
                                 </tr>
                                 <tr>
                                     <td>Output THD</td>
-                                    <td colspan="7" align="center">Linear Load < 3%, Non-Linear Load < 5%</td>
+                                    <td colspan="6" align="center">Linear Load < 3%, Non-Linear Load < 5%</td>
                                 </tr>
                                 <tr>
                                     <td>Efficiency</td>
-                                    <td colspan="7" align="center">Up to 85% (Full Load)</td>
+                                    <td colspan="6" align="center">UP to >95% (Full Load)</td>
                                 </tr>
-                                <tr> </tr>
+                                <tr>    </tr>
                                 <tr>
                                     <th rowspan="7" align="center" valign="middle"><strong>BATTERY</strong></th>
                                     <td>DC Voltage</td>
-                                    <td align="center" colspan="7">360-384 VDC (selectable)</td>
+                                    <td align="center" colspan="6">360-384 VDC (Selectable)</td>
                                 </tr>
                                 <tr>
                                     <td>Number of Battery</td>
-                                    <td align="center" colspan="7">30-32 (Selectable)</td>
+                                    <td align="center" colspan="6">30-32 (Selectable)</td>
                                 </tr>
                                 <tr>
                                     <td>Charging Current</td>
-                                    <td align="center" colspan="7">1-20 Amp (Settable)</td>
+                                    <td align="center" colspan="6">1-20 Amp (settable) - Expandable to 40Amp</td>
                                 </tr>
                                 <tr></tr>
                                 <tr></tr>
@@ -242,73 +238,71 @@
                                 <tr>
                                     <th rowspan="3" align="center" valign="middle"><strong>BYPASS</strong></th>
                                     <td>Phase</td>
-                                    <td colspan="7" align="center">Single Phase (3P+N)</td>
+                                    <td colspan="6" align="center">Single Phase (3P+N)</td>
                                 </tr>
                                 <tr>
                                     <td>Manual</td>
-                                    <td colspan="7" align="center">Maintenance Bypass Switch Provided</td>
+                                    <td colspan="6" align="center">Maintenance Bypass Switch Provided</td>
                                 </tr>
                                 <tr>
                                     <td>Static</td>
-                                    <td colspan="7" align="center">No Break (Optional)</td>
+                                    <td colspan="6" align="center">No Break (Optional)</td>
                                 </tr>
                                 <tr>
                                     <th rowspan="4" align="center" valign="middle"><strong>PROTECTION</strong></th>
                                     <td>Input Protection</td>
-                                    <td colspan="7" align="center">Input Voltage, Frequency Under/Over limit Protection
+                                    <td colspan="6" align="center">Input Voltage, Frequency Under/Over limit Protection
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Output Protection</td>
-                                    <td colspan="7" align="center">Over Current, Short-Circuit, Over/Under Voltage</td>
+                                    <td colspan="6" align="center">Over Current, Short-Circuit, Over/Under Voltage</td>
                                 </tr>
                                 <tr>
                                     <td>Battery Protection</td>
-                                    <td colspan="7" align="center">Over Charge, Over Discharge protection</td>
+                                    <td colspan="6" align="center">Over Charge, Over Discharge protection</td>
                                 </tr>
                                 <tr>
                                     <td>Temperature Protection</td>
-                                    <td colspan="7" align="center">Inverter Over Temperature Protection</td>
+                                    <td colspan="6" align="center">Inverter Over Temperature Protection</td>
                                 </tr>
                                 <tr>
                                     <th rowspan="8" align="center" valign="middle"><strong>GENERAL PARAMETERS</strong>
                                     </th>
                                     <td>Working Environment</td>
-                                    <td colspan="7" align="center">Temp: 10-550 C, Relative Humidity : 30-90%</td>
+                                    <td colspan="6" align="center">Temp: 10-550 C, Relative Humidity : 30-90%</td>
                                 </tr>
                                 <tr>
                                     <td>Display</td>
-                                    <td colspan="7" align="center">LCD + Physical Button</td>
+                                    <td colspan="6" align="center">LCD + Physical Button</td>
                                 </tr>
                                 <tr>
                                     <td>Alarm</td>
-                                    <td colspan="7" align="center">Low Battery, Abnormal AC Input, UPS Failure, etc.
+                                    <td colspan="6" align="center">Low Battery, Abnormal AC Input, UPS Failure, etc.
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Noise (dB)</td>
-                                    <td colspan="7" align="center">
+                                    <td colspan="6" align="center">
                                         < 55</td>
                                 </tr>
                                 <tr>
                                 </tr>
                                 <tr>
                                     <td>Dimensions (L*W*H)</td>
-                                    <td colspan="2" align="center">690 X 386 X 719</td>
-                                    <td colspan="2" align="center">689 X 387 X 856</td>
-                                    <td colspan="3" align="center">779 X 412 X 1001</td>
+                                    <td colspan="4" align="center">954 X 712 X 1511</td>
+                                    <td colspan="4" align="center">1016 X 1144 X 1656</td>
                                 </tr>
                                 <tr>
                                 </tr>
                                 <tr>
                                     <td>Weight (kg)</td>
-                                    <td align="center">122</td>
-                                    <td align="center">152</td>
-                                    <td align="center">160</td>
-                                    <td align="center">214</td>
-                                    <td align="center">272</td>
-                                    <td align="center">330</td>
-                                    <td align="center">351</td>
+                                    <td align="center">502</td>
+                                    <td align="center">600</td>
+                                    <td align="center">777</td>
+                                    <td align="center">850</td>
+                                    <td align="center">1100</td>
+                                    <td align="center">1250</td>
                                 </tr>
                             </tbody>
                         </table>

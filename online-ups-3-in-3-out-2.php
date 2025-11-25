@@ -5,10 +5,10 @@
         <div class="breadcrumbs-inner">
             <div class="container">
                 <div class="breadcrumbs-text">
-                    <h1 class="breadcrumbs-title">PowerXcel Energi : Online UPS 3 In 3 10kVA - 60kVA</h1>
+                    <h1 class="breadcrumbs-title">PowerXcel EnergiX : Online UPS 3 In 3 10kVA - 60kVA</h1>
                     <ul class="breadcrumbs-subtitle">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="javascript:;">PowerXcel Energi : Online UPS 3 In 3 10kVA - 60kVA</a></li>
+                        <li><a href="javascript:;">PowerXcel EnergiX : Online UPS 3 In 3 10kVA - 60kVA</a></li>
                     </ul>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                                             <?php
 											$nb_elem_per_page = 50;
 											$page = isset($_GET['page'])?intval($_GET['page']-1):0;
-											$data = glob("./images/online-ups/online-ups-3-in-3-out/1.webp");
+											$data = glob("./images/online-ups/online-ups-3-in-3-out/2.webp");
 											$number_of_pages = intval(count($data)/$nb_elem_per_page)+1;
 											?>
                                             <?php
@@ -52,7 +52,7 @@
                                         <?php
 										$nb_elem_per_page = 50;
 										$page = isset($_GET['page'])?intval($_GET['page']-1):0;
-										$data = glob("./images/online-ups/online-ups-3-in-3-out/1.webp");
+										$data = glob("./images/online-ups/online-ups-3-in-3-out/2.webp");
 										$number_of_pages = intval(count($data)/$nb_elem_per_page)+1;
 										if(count($data) > 1){
 										?>
@@ -95,21 +95,26 @@
                         <div class="card1-header">
                             <h1 class="mb-0">
                                 <div class="revealOut innerh1">
-                                    <span class="revealIn">PowerXcel Energi : Online UPS 3 In 3 10kVA - 60kVA</span>
+                                    <span class="revealIn">PowerXcel EnergiX : Online UPS 3 In 3 10kVA - 60kVA</span>
                                 </div>
                             </h1>
-                            <img src="./images/logo/energi.webp" alt="logo" style="height: 45px;">
+                            <img src="./images/logo/energix.webp" alt="logo" style="height: 45px;">
                         </div>
+
                         <hr>
 
                         <div class="inner-content">
-                            <p>SAPT presents the PowerXcel ENERGI Series, a state-of-the art power backup solution
-                                designed with a built-in isolation transformer, SCR-based rectifier, and IGBT-based
-                                inverter.</p>
+                            <p>SAPT presents the PowerXcel ENERGIX Series, a cutting-edge 3-Phase Online UPS featuring
+                                an IGBT-based rectifier, IGBT-based inverter, and a built-in isolation transformer.</p>
 
-                            <p>Engineered for critical applications, this UPS ensures maximum reliability, superior
-                                power conditioning, and complete electrical isolation to safeguard sensitive equipment.
-                            </p>
+                            <p>Designed for industrial, commercial, and mission-critical applications, this UPS delivers
+                                high efficiency, superior power quality, and complete electrical isolation, ensuring
+                                uninterrupted and reliable performance.</p>
+                            <p>Power factor affects electricity consumption by influencing the amount of current drawn
+                                from the grid. A low power factor increases current flow, leading to higher energy
+                                losses, overheating of equipment, and higher electricity bill</p>
+                            <p>By improving power factor correction systems, energy losses can be minimized, electricity
+                                bills reduced, and overall power system efficiency enhanced.</p>
                         </div>
 
                         <h4>Features</h4>
@@ -118,6 +123,8 @@
                                 <div class="feature-list">
                                     <ul>
                                         <li>True Online Double Conversion Technology</li>
+                                        <li>Fully Digital Signal Processing using the latest DSP Technology</li>
+                                        <li>PFC Based Rectifier</li>
                                         <li>Wide Input Voltage Range</li>
                                         <li>Compatible with Engine Generator</li>
                                         <li>LCD/LED Display</li>
@@ -173,9 +180,6 @@
                                     <td colspan="7" align="center">Three Phase (3P+N)</td>
                                 </tr>
                                 <tr>
-
-                                </tr>
-                                <tr>
                                     <td>Input Voltage Range</td>
                                     <td colspan="7" align="center">415V AC ± 25%</td>
                                 </tr>
@@ -184,10 +188,15 @@
                                     <td colspan="7" align="center">50HZ ± 5%</td>
                                 </tr>
                                 <tr>
+                                    <td>Power Factor</td>
+                                    <td colspan="7" align="center">>0.95%</td>
+                                </tr>
+                                <tr>
                                     <td>Input Ripple</td>
                                     <td colspan="7" align="center">
                                         < 5%</td>
                                 </tr>
+
                                 <tr>
                                     <td>Soft Start</td>
                                     <td colspan="7" align="center">0~100% 5 second</td>
@@ -219,7 +228,7 @@
                                 </tr>
                                 <tr>
                                     <td>Efficiency</td>
-                                    <td colspan="7" align="center">Up to 85% (Full Load)</td>
+                                    <td colspan="7" align="center">Up to >95% (Full Load)</td>
                                 </tr>
                                 <tr> </tr>
                                 <tr>
@@ -233,7 +242,7 @@
                                 </tr>
                                 <tr>
                                     <td>Charging Current</td>
-                                    <td align="center" colspan="7">1-20 Amp (Settable)</td>
+                                    <td align="center" colspan="7">1-20 Amp (settable) - Expandable to 40Amp</td>
                                 </tr>
                                 <tr></tr>
                                 <tr></tr>
@@ -295,8 +304,9 @@
                                 <tr>
                                     <td>Dimensions (L*W*H)</td>
                                     <td colspan="2" align="center">690 X 386 X 719</td>
-                                    <td colspan="2" align="center">689 X 387 X 856</td>
-                                    <td colspan="3" align="center">779 X 412 X 1001</td>
+                                    <td colspan="2" align="center">689 X 387 X 756</td>
+                                    <td colspan="2" align="center">850 X 412 X 1001</td>
+                                    <td colspan="2" align="center">854 X 462 X 1261</td>
                                 </tr>
                                 <tr>
                                 </tr>
