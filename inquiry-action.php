@@ -58,6 +58,10 @@ if($response->result){
 }else{
   try{
   if(isset($fname) && trim($fname)!=='' && isset($email) && trim($email)!=='' && isset($message) && trim($message)!=='' && isset($phone) && trim($phone)!=='' && isset($country) && trim($country)!==''){
+
+  echo "<pre>"; print_r($_POST);
+  echo "<pre>"; print_r($_SESSION);exit;
+
       if ($_SESSION["code"]==$_POST['captcha'] && $_POST['captcha'] != "!UNKNOWN_TYPE!" && $_POST['captcha'] != "" && $_SESSION["code"] !="" ){
           if (!preg_match("/^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/", $email)) {
               //echo "ERROR junk email detact";
