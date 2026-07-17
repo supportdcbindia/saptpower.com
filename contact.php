@@ -1,4 +1,4 @@
-<?php include("header.php");?>
+<?php include("header.php"); ?>
 <div class="rs-breadcrumbs">
     <div class="breadcrumbs-image">
         <img src="images/inner-pages/breadcums/contact-us.webp" alt="breadcum">
@@ -92,11 +92,11 @@
                         </div>
                     </div>
                     <div class="form-group has-feedback">
-                                    <div class="col-md-12">
-                                        <input name="cname" id="cname" type="text" placeholder="Company Name"
-                                            class="form-control">
-                                    </div>
-                                </div>
+                        <div class="col-md-12">
+                            <input name="cname" id="cname" type="text" placeholder="Company Name"
+                                class="form-control">
+                        </div>
+                    </div>
                     <div class="form-group has-feedback">
                         <div class="col-md-12">
                             <input name="email" id="email" type="text" placeholder="E-Mail Address"
@@ -112,6 +112,25 @@
                         <div class="col-md-12">
                             <input name="number" id="number" type="tel" placeholder="Phone" maxlength="15"
                                 minlength="10" class="form-control number21">
+                        </div>
+                    </div>
+                    <div class="form-group has-feedback">
+                        <div class="col-md-12">
+                            <select class="form-control" name="application" id="application" required>
+                                <option value="">Select Application</option>
+                                <option value="Industrial">Industrial</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group has-feedback">
+                        <div class="col-md-12">
+                            <select class="form-control" name="product" id="product" required>
+                                <option value="">Select Product</option>
+                                <option value="Online UPS">Online UPS</option>
+                                <option value="Voltage Stabilizer">Voltage Stabilizer</option>
+                                <option value="Isolation Transformer">Isolation Transformer</option>
+                                <option value="Electro Plating Rectifier">Electro Plating Rectifier</option>
+                            </select>
                         </div>
                     </div>
                     <div class="form-group has-feedback">
@@ -145,6 +164,6 @@
 </div>
 
 <section class="map-section py-0">
-   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d470202.50168750837!2d72.649719!3d22.970215!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e889ad99082d5%3A0xa23f547758ca8de5!2sSAPT%20POWERTRONICS%20PVT%20LTD!5e0!3m2!1sen!2sus!4v1755935447782!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d470202.50168750837!2d72.649719!3d22.970215!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e889ad99082d5%3A0xa23f547758ca8de5!2sSAPT%20POWERTRONICS%20PVT%20LTD!5e0!3m2!1sen!2sus!4v1755935447782!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
-<?php include("footer.php");?>
+<?php include("footer.php"); ?>

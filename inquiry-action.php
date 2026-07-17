@@ -37,6 +37,8 @@ $email= htmlspecialchars(stripslashes(trim($_POST['email'])));
 $message = htmlspecialchars(stripslashes(trim($_POST['message'])));
 $phone= htmlspecialchars(stripslashes(trim($_POST['number'])));
 $country= htmlspecialchars(stripslashes(trim($_POST['city'])));
+$application= htmlspecialchars(stripslashes(trim($_POST['application'])));
+$product= htmlspecialchars(stripslashes(trim($_POST['product'])));
 
 // $allowed_origins = array('https://dolphinlasermachine.com/', 'https://saptpower.com/', 'http://dolphinlasermachine.com/', 'http://saptpower.com/','https://dolphinlasermachine.com', 'https://saptpower.com', 'http://dolphinlasermachine.com', 'http://saptpower.com');
 // if (!in_array($_SERVER['HTTP_ORIGIN'], $allowed_origins)) {
@@ -129,6 +131,14 @@ if($response->result){
           <tr>
             <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">City:</td>
             <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>'.$country.'</b></td>
+          </tr>
+          <tr>
+            <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Product:</td>
+            <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>'.$product.'</b></td>
+          </tr>
+          <tr>
+            <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Application:</td>
+            <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>'.$application.'</b></td>
           </tr>
           
           

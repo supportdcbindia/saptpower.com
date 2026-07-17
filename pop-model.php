@@ -1,16 +1,17 @@
 <?php
-function isMobile() {
-return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
+function isMobile()
+{
+    return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
 }
 $companyname = "SAPT POWERTRONICS PVT. LTD.";
 $phone = "+91 81416 60211"; /* FORMATE: +91 00000 00000 */
 $whatappphone = "918141660211";/* FORAMTE: 91000000000 */
 $email = "sales@saptpower.com";
 $logo = "images/Sapt-Power-Logo.png"; /* FORMATE: images/logo3.png */
-$message = "Hello Team ".$companyname.", I was going through your website and wish to get connected for product discussion";
+$message = "Hello Team " . $companyname . ", I was going through your website and wish to get connected for product discussion";
 ?>
 <div class="sticklist">
-    <input type="hidden" id="ismobile" value="<?=isMobile();?>">
+    <input type="hidden" id="ismobile" value="<?= isMobile(); ?>">
     <button class="open-close-arrow">
         <span class="open-arrow"><i class="fa fa-chevron-right"></i></span>
         <span class="close-arrow"><i class="fa fa-chevron-left"></i></span>
@@ -27,8 +28,8 @@ $message = "Hello Team ".$companyname.", I was going through your website and wi
             </a>
         </li>
         <li class="whataspp-icon none-li imgnone">
-            <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+<?=$whatappphone;?>' });"
-                href="https://api.whatsapp.com/send?phone=<?=$whatappphone;?>&amp;text=<?=$message;?>" target="_blank">
+            <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+<?= $whatappphone; ?>' });"
+                href="https://api.whatsapp.com/send?phone=<?= $whatappphone; ?>&amp;text=<?= $message; ?>" target="_blank">
                 <span class="icon1"> <i class="fab fa-whatsapp"></i></span> <span class="btn-text"> Whatsapp</span></a>
         </li>
     </ul>
@@ -44,21 +45,21 @@ $message = "Hello Team ".$companyname.", I was going through your website and wi
                 <div class="row mt-40">
                     <div class="col-md-5 col-sm-12 col-xs-12">
                         <div class="logo-wrapper">
-                            <img src="<?=$logo;?>">
+                            <img src="<?= $logo; ?>">
                             <button class="btn-modal-gra">
-                                <a class="content-p" href="mailto:<?=$email;?>"
-                                    onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': '<?=$email;?>' });"><b><?=$email;?></b></a>
-                                <br> <a class="content-p" href="tel:<?=$phone?>"
-                                    onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '<?=$phone?>' });">
-                                    <b><?=$phone?></b>
+                                <a class="content-p" href="mailto:<?= $email; ?>"
+                                    onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': '<?= $email; ?>' });"><b><?= $email; ?></b></a>
+                                <br> <a class="content-p" href="tel:<?= $phone ?>"
+                                    onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '<?= $phone ?>' });">
+                                    <b><?= $phone ?></b>
                                 </a>
                             </button>
                         </div>
                     </div>
                     <div class="col-md-7 col-sm-12 col-xs-12">
                         <div class="footer-widgets tag-widget">
-                            <input id="inquiery-model" value="<?=$_COOKIE['inquierymodel'];?>" type="hidden" />
-                            <input id="isloadopenmodel" value="<?=$_COOKIE['isloadopenmodel'];?>" type="hidden" />
+                            <input id="inquiery-model" value="<?= $_COOKIE['inquierymodel']; ?>" type="hidden" />
+                            <input id="isloadopenmodel" value="<?= $_COOKIE['isloadopenmodel']; ?>" type="hidden" />
                             <input name="junk_trap" class="junk_trap" type="hidden" />
                             <form class="form-horizontal form1" action="inquiry-action.php" method="post"
                                 novalidate="novalidate">
@@ -90,6 +91,31 @@ $message = "Hello Team ".$companyname.", I was going through your website and wi
                                     <div class="col-md-12">
                                         <input name="number" id="number" type="tel" placeholder="Phone" maxlength="15"
                                             minlength="10" class="form-control number21">
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12">
+                                        <textarea class="form-control" name="message" id="message"
+                                            placeholder="Requirement"></textarea>
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12">
+                                        <select class="form-control" name="application" id="application" required>
+                                            <option value="">Select Application</option>
+                                            <option value="Industrial">Industrial</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12">
+                                        <select class="form-control" name="product" id="product" required>
+                                            <option value="">Select Product</option>
+                                            <option value="Online UPS">Online UPS</option>
+                                            <option value="Voltage Stabilizer">Voltage Stabilizer</option>
+                                            <option value="Isolation Transformer">Isolation Transformer</option>
+                                            <option value="Electro Plating Rectifier">Electro Plating Rectifier</option>
+                                        </select>
                                     </div>
                                 </div>
                                 <div class="form-group has-feedback">
@@ -140,12 +166,12 @@ $message = "Hello Team ".$companyname.", I was going through your website and wi
                 <div class="row mt-40">
                     <div class="col-md-5 col-sm-12 col-xs-12">
                         <div class="logo-wrapper">
-                            <img src="<?=$logo;?>">
+                            <img src="<?= $logo; ?>">
                             <button class="btn-modal-gra">
-                                <a class="content-p" href="mailto:<?=$email;?>"
-                                    onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': '<?=$email;?>' });"><b><?=$email;?></b></a>
-                                <br> <a class="content-p" href="tel:<?=$phone?>"
-                                    onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '<?=$phone?>' });"><b><?=$phone?>
+                                <a class="content-p" href="mailto:<?= $email; ?>"
+                                    onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': '<?= $email; ?>' });"><b><?= $email; ?></b></a>
+                                <br> <a class="content-p" href="tel:<?= $phone ?>"
+                                    onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '<?= $phone ?>' });"><b><?= $phone ?>
                                     </b></a>
                             </button>
                         </div>
@@ -229,8 +255,8 @@ $message = "Hello Team ".$companyname.", I was going through your website and wi
                 style="margin-right: 5px;"></i> Catalogue</a>
     </div>
     <div class="book-app" style="background: #2db640;">
-        <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+<?=$whatappphone;?>' });"
-            href="https://api.whatsapp.com/send?phone=<?=$whatappphone;?>&amp;text=<?=$message;?>" target="_blank"
+        <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+<?= $whatappphone; ?>' });"
+            href="https://api.whatsapp.com/send?phone=<?= $whatappphone; ?>&amp;text=<?= $message; ?>" target="_blank"
             style="color:#FFF; font-size:12px;font-weight:600;"><i class="fab fa-whatsapp"
                 style="margin-right: 5px;"></i> Whatsapp</a>
     </div>
